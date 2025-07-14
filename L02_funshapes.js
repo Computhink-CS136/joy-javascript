@@ -27,6 +27,7 @@ function draw() {
   quad(320,725,120,869,290,30)
   circle(500, 100, 100, 50)
   circle(100, 100, 100, 50)
+  
   // Challenge 6: Add some colours to the drawings in the above challenges
 
   // Challenge 7: Create a funny Pokemon
