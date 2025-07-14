@@ -28,6 +28,7 @@ function draw() {
   circle(500, 100, 100, 50)
   circle(100, 300, 100, 50)
   rect(50, 100, 200, 50)
+  ellipse()
   fill("black")
   // Challenge 6: Add some colours to the drawings in the above challenges
 
