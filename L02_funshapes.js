@@ -32,7 +32,7 @@ function draw() {
   triangle(380, 400, 100, 100)
   triangle(580, 400, 100, 100)
   triangle(900, 400, 100, 200)  
-  fill("black")
+  fill("purple")
   // Challenge 6: Add some colours to the drawings in the above challenges
 
   // Challenge 7: Create a funny Pokemon
