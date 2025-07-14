@@ -29,7 +29,7 @@ function draw() {
   circle(100, 300, 100, 50)
   rect(50, 100, 200, 50)
   ellipse(400, 200, 100, 50)
-  
+  triangle(380)
   fill("black")
   // Challenge 6: Add some colours to the drawings in the above challenges
 
