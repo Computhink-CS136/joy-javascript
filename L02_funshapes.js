@@ -33,8 +33,7 @@ function draw() {
   triangle(380, 400, 100, 100)
       fill("gray")
   triangle(580, 400, 100, 100)
-    fill("purple")
-
+    fill("blue")
   triangle(900, 400, 100, 200) 
   triangle(200, 400, 100, 200) 
   circle(400, 300, 100, 50) 
