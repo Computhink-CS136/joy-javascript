@@ -27,7 +27,7 @@ function draw() {
   quad(320,725,120,869,290,30)
   circle(500, 100, 100, 50)
   circle(100, 100, 100, 50)
-  rect()
+  rect(200, 100, 200, 50)
   fill("black")
   // Challenge 6: Add some colours to the drawings in the above challenges
 
