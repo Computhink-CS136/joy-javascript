@@ -29,6 +29,7 @@ function draw() {
   circle(100, 300, 100, 50)
   rect(50, 100, 200, 50)
   // ellipse(400, 200, 100, 50)
+    fill("magenta")
   triangle(380, 400, 100, 100)
   triangle(580, 400, 100, 100)
   triangle(900, 400, 100, 200) 
