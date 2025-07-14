@@ -30,6 +30,7 @@ function draw() {
   circle(500, 100, 100, 50)
     fill("purple")
   circle(100, 300, 100, 50)
+    fill("yellow")
   rect(50, 100, 200, 50)
   // ellipse(400, 200, 100, 50)
     fill("magenta")
