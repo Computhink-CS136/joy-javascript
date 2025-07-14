@@ -22,7 +22,7 @@ function draw() {
   // rect(150, 100, 300, 240)
   // triangle(130, 175, 185, 420, 286, 175)
   // Challenge 4: A rocketship using triangle() function
-  triangle(30, 75, 58, 20, 86, 75)
+  triangle(230, 175, 158, 20, 86, 75)
   // Challenge 5: A square face using quad() function
 
   // Challenge 6: Add some colours to the drawings in the above challenges
