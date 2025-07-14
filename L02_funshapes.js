@@ -5,7 +5,7 @@ function setup(){
  //run once
  createCanvas(600, 400);
  // background(220);
- background("pink")
+ background("")
 }
 
 
