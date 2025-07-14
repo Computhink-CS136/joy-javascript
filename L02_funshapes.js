@@ -24,7 +24,7 @@ function draw() {
   // Challenge 4: A rocketship using triangle() function
   // triangle(230, 175, 185, 420, 386, 250)
   // Challenge 5: A square face using quad() function
-  quad(350,745,130,869,290,30)
+  quad(350,725,130,869,290,30)
   // Challenge 6: Add some colours to the drawings in the above challenges
 
   // Challenge 7: Create a funny Pokemon
