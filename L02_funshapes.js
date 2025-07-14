@@ -12,6 +12,7 @@ function setup(){
 
 function draw() {
   // Challenge 1: An eye using ellipse() function
+  fill("white");
   ellipse(300, 150, 300, 200)
   // Challenge 2: A face using circle() function
   fill(255, 0, 0);
