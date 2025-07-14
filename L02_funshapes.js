@@ -31,7 +31,7 @@ function draw() {
   // ellipse(400, 200, 100, 50)
   triangle(380, 400, 100, 100)
   triangle(580, 400, 100, 100)
-  
+  triangle(900, 400, 100, 200) 
   
   circle(400, 300, 100, 50) 
   fill("purple")
