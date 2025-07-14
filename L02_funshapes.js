@@ -3,7 +3,9 @@ Task 1: Add the setup() function
 */
 function setup(){
  //run once
+
 }
+
 
 
 function draw() {
