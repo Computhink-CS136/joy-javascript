@@ -2,7 +2,7 @@ function setup() {
     createCanvas(895, 400);
     background(220);
     // noLoop(); // Stops continuous drawing
-    
+    colorX = 0
   }
   
 function draw() {
