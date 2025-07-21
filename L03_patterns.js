@@ -12,10 +12,11 @@ function draw() {
   let colorB = 0
 
   for (let i=1; i<15; i++){
-    circle(posX, posY, circleD);
     posX = posX + circleD + 10;
     fill(colorB, 0, 225)
     colorB = colorB + 35;
+    circle(posX, posY, circleD);
+
   }
 
 
