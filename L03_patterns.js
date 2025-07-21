@@ -1,4 +1,4 @@
-
+let color
 function setup() {
     createCanvas(895, 400);
     background(220);
