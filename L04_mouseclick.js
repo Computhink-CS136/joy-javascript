@@ -5,6 +5,8 @@ function setup() {
     background(230);
 }
 
+let
+
 function draw() {
 //     let r = 0;
 //     let g = 0;
