@@ -44,3 +44,4 @@ colorX = colorX + 1;
     rect(xpos, ypos, 50, 50)
     xpos = xpos + 60;
 }
+}
