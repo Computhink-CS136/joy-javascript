@@ -40,5 +40,6 @@ colorX = colorX + 1;
 
   // Task 4: Grid of Circles
   for (let i=0; i<5; i++ )
-    fill
+    fill(black)
+    
 }
