@@ -50,6 +50,9 @@ function draw() {
 
   //   rect(xpos, ypos, 50, 50);
   //   xpos = xpos + 60;
-  }
+  
+  fill("pink")
   rect(0, 50, width, 50);
-circle
+  fill("purple")
+  circle( width/2, height/2, 100)
+}
