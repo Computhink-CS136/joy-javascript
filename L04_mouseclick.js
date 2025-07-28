@@ -25,7 +25,7 @@ function draw() {
 
 
 
-funtion
+function mousePressed() {}
 
 
 
