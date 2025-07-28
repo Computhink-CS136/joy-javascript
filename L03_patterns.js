@@ -39,8 +39,8 @@ function draw() {
   // Task 3: Row of Circles
 
   // Task 4: Grid of Circles
+  let xpos
 
-  
   for (let i=0; i<5; i++ ){
     fill("white")
 
