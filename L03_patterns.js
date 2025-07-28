@@ -42,7 +42,7 @@ function draw() {
   let xpos = 50;
   let ypos = 50;
 
-  for (let i=0; i<15; i++ ){
+  for (let i=0; i<14; i++ ){
     fill("pink");
 
     if (i%2 == 0) 
