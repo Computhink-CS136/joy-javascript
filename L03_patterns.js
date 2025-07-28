@@ -39,16 +39,17 @@ function draw() {
   // Task 3: Row of Circles
 
   // Task 4: Grid of Circles
-  let xpos = 50;
-  let ypos = 50;
+  // let xpos = 50;
+  // let ypos = 50;
 
-  for (let i=0; i<14; i++ ){
-    fill("pink");
+  // for (let i=0; i<14; i++ ){
+  //   fill("pink");
 
-    if (i%2 == 0) 
-      fill("purple");
+  //   if (i%2 == 0) 
+  //     fill("purple");
 
-    rect(xpos, ypos, 50, 50);
-    xpos = xpos + 60;
+  //   rect(xpos, ypos, 50, 50);
+  //   xpos = xpos + 60;
   }
-}
+  rect(0, 50, width, 50);
+
