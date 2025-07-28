@@ -37,3 +37,7 @@ function mousePressed() {
     fill("red");
     
 }
+
+function mouseReleased() {
+    
+}
