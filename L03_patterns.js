@@ -22,9 +22,9 @@ function draw() {
 //   }
 
 
-fill(colorX, 0, 225);
-circle(150, 150, 200);
-colorX = colorX + 1;
+// fill(colorX, 0, 225);
+// circle(150, 150, 200);
+// colorX = colorX + 1;
 
 
 
