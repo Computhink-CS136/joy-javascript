@@ -42,5 +42,5 @@ colorX = colorX + 1;
   for (let i=0; i<5; i++ )
     fill(black)
     rect(xpos, ypos, 50, 50)
-    xpos = xpo
+    xpos = xpos + 60;
 }
