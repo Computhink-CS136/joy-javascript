@@ -19,6 +19,7 @@ function draw() {
 //         xpos = xpos + 50;
 //         ypos = ypos + 50;
 //     }
+noStroke
 circle(mouseX, mouseY, 50);
 
 
