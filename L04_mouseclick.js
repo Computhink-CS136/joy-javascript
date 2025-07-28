@@ -23,7 +23,7 @@ function draw() {
 // fill(5, 50);
 // circle(mouseX, mouseY, 50);
 
-circle(mouseX, mouseY, 50);
+circle(mouseX, height/2, 50);
 
 
 
