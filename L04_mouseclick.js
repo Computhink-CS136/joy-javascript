@@ -5,7 +5,7 @@ function setup() {
     background(230);
 }
 
-let shapeColor = "pink"
+let shapeColor = "pink";
 
 function draw() {
 //     let r = 0;
@@ -25,7 +25,7 @@ function draw() {
 // fill(5, 50);
 // circle(mouseX, mouseY, 50);
 
-circle(width/2, height/2, 100);
+// circle(width/2, height/2, 100);
 
 fill (shapeColor);
 circle(width/2, height/2, 100)
