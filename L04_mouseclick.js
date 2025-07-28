@@ -25,13 +25,15 @@ function draw() {
 
 
 
-function mousePressed() {
-    fill("red");
-    
-}
-
 
 
 
 }
 //this must be the last line
+
+
+
+function mousePressed() {
+    fill("red");
+    
+}
