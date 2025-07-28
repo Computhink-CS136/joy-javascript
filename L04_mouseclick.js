@@ -5,7 +5,7 @@ function setup() {
     background(230);
 }
 
-let shapeColor = "pink";
+// let shapeColor = "pink";
 
 function draw() {
 //     let r = 0;
@@ -21,14 +21,14 @@ function draw() {
 //         xpos = xpos + 50;
 //         ypos = ypos + 50;
 //     }
-// noStroke();
-// fill(5, 50);
-// circle(mouseX, mouseY, 50);
+noStroke();
+fill(5, 50);
+circle(mouseX, mouseY, 50);
 
 // circle(width/2, height/2, 100);
 
-fill (shapeColor);
-circle(width/2, height/2, 100)
+// fill (shapeColor);
+// circle(width/2, height/2, 100)
 
 
 
@@ -37,13 +37,13 @@ circle(width/2, height/2, 100)
 
 
 
-function mousePressed() {
-    fill("pink");
+// function mousePressed() {
+    // fill("pink");
     // shapeColor = color(random(255), random(255), random(255))
     
-}
+// }
 
-function mouseReleased() {
-    fill("purple")
+// function mouseReleased() {
+//     fill("purple")
     // shapeColor = "white";
-}
+// }
