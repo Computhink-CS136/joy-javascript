@@ -38,10 +38,11 @@ circle(width/2, height/2, 100)
 
 
 function mousePressed() {
-    fill("pink");
+    // fill("pink");
+        shapeColor = color(random(255), random(255), random(255))
     
 }
 
 function mouseReleased() {
-    // fill("purple")
+    fill("purple")
 }
