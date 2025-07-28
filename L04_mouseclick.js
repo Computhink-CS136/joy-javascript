@@ -6,5 +6,21 @@ function setup() {
 }
 
 function draw() {
+    let r = 0;
+    let g = 0;
+    let b = 0;
+    let xpos = 50;
+    let ypos = 50;
+
+    for(let i = 0; i < 5; i++) {
+        fill(r, g, b)
+        g = g + 50
+        circle(xpos, ypos, 50);
+        xpos = xpos + 50;
+        ypos = ypos + 5;
+    }
+
+
+
 
 }//this must be the last line
