@@ -45,5 +45,5 @@ function draw() {
       fill("black")
     rect(xpos, ypos, 50, 50)
     xpos = xpos + 60;
-  
+}
 }
