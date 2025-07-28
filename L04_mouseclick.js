@@ -12,7 +12,7 @@ function draw() {
     let xpos = 50;
     let ypos = 50;
 
-    for(let i = 0; i < 5; i++) {
+    for(let i = 0; i < 7; i++) {
         fill(r, g, b)
         g = g + 50
         circle(xpos, ypos, 50);
