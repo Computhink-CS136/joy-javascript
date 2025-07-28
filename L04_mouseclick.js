@@ -44,5 +44,6 @@ function mousePressed() {
 }
 
 function mouseReleased() {
-    fill("white")
+    // fill("white")
+    
 }
