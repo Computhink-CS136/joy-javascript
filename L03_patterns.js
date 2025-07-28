@@ -43,7 +43,8 @@ function draw() {
     fill("white")
     if (i%2 == 0) 
       fill("black")
+    
     rect(xpos, ypos, 50, 50)
     xpos = xpos + 60;
-}
+  }
 }
