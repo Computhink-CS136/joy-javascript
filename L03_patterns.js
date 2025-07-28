@@ -43,10 +43,10 @@ function draw() {
   let ypos = 50;
 
   for (let i=0; i<5; i++ ){
-    fill("white");
+    fill("pink");
 
     if (i%2 == 0) 
-      fill("black");
+      fill("purple");
 
     rect(xpos, ypos, 50, 50);
     xpos = xpos + 60;
