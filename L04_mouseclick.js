@@ -19,7 +19,7 @@ function setup() {
 //         xpos = xpos + 50;
 //         ypos = ypos + 50;
 //     }
-CSSNumericValue(mouseX, mouseY, 50)
+CSSNumericValue(mouseX, mouseY, 50);
 
 
 
