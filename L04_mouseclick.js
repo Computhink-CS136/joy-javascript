@@ -5,7 +5,7 @@ function setup() {
     background(230);
 }
 
-let shapeColor 
+let shapeColor("red")
 
 function draw() {
 //     let r = 0;
