@@ -52,7 +52,7 @@ function draw() {
   //   xpos = xpos + 60;
   
   fill("pink")
-  rect(0, 50, width, 50);
+  rect(0, 130, width, 50);
   fill("purple")
   circle( width/2, height/2, 100)
 }
