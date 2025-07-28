@@ -39,5 +39,5 @@ function mousePressed() {
 }
 
 function mouseReleased() {
-    
+    fill("blue")
 }
