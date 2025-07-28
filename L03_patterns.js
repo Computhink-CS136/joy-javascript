@@ -50,7 +50,7 @@ function draw() {
 
   //   rect(xpos, ypos, 50, 50);
   //   xpos = xpos + 60;
-  noStroke
+  noStroke();
   fill("pink")
   rect(0, 130, width, 50);
   fill("purple")
