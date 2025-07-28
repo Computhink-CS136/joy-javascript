@@ -5,7 +5,7 @@ function setup() {
     background(230);
 }
 
-let shapeColor("red")
+let shapeColor = 'pink'
 
 function draw() {
 //     let r = 0;
