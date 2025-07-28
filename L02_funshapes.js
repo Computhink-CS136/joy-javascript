@@ -55,7 +55,6 @@ function draw() {
   // Challenge 7: Create a funny Pokemon
   fill("yellow")
   circle(275, 200, 200, 100)
-  //   fill("purple")
   fill("black")
   circle(230, 150, 30, 15)
   circle(310, 150, 30, 15)
