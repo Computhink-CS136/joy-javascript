@@ -1,4 +1,4 @@
-
+let soundEffect, 
 
 function preload() {
 
