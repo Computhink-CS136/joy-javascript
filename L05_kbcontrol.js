@@ -36,7 +36,7 @@ function draw(){
     // circleSize = circleSize + 0.5
 // }
 
-function keyPressed() {
+// function keyPressed() {
     // rectSize = 100;
     //  if (key === 'c'){
     // background(220);
@@ -51,8 +51,8 @@ function keyPressed() {
     if(keyCode === 40) { 
         background(220);
         fill("black");
-        circle(300, 200, 100);
-    }
+        // circle(300, 200, 100);
+    // }
 
 
 
