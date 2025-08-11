@@ -54,4 +54,3 @@ function keyPressed() {
     // rectSize = 50
 // }
 
-}
