@@ -46,7 +46,7 @@ function keyPressed() {
     }
     else {
         background(220)
-        
+        FileList("white")
         triangle(50, 350, 150, 50, 350, 350);
     }
 
