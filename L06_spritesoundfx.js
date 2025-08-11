@@ -1,4 +1,4 @@
-let soundEffect, 
+let soundEffect, bgMusic, 
 
 function preload() {
 
