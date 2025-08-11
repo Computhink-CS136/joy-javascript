@@ -10,8 +10,8 @@ function setup() {
 }
 
 function draw(){
-    background(00);
-    noStroke();
+    background(200);
+    // noStroke();
     // let xpos = 50;
     // let ypos = 50;
     // rect(xpos, ypos, rectSize, rectSize)
