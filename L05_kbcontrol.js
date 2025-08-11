@@ -45,6 +45,7 @@ function keyPressed() {
     }
     else if (key === 's'){
         background(220)
+        fill("blue")
         rect(50, 100, 200, 200);
     }
     else {
