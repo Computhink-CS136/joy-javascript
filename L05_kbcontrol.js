@@ -32,7 +32,7 @@ function draw(){
         circle(xpos, height/2, 50)
     }
     fill("yellow");
-    circle
+    circle(xpos)
 }
 // function mousePressed() {
     // shapeColor = color(random(255), 0, random(255));
