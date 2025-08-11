@@ -40,9 +40,9 @@ function keyPressed() {
     // rectSize = 100;
     //  if (key === 'c'){
     background(220);
-    textsize();
+    textsize(64);
     text(key, 50, 50);
-
+    text
 
 
 
