@@ -29,7 +29,7 @@ function draw(){
         xpos = xpos + 5;
     }
     if (keyIsDown(LEFT_ARROW)){
-        circle(xpos, height)
+        circle(xpos, height/2, 50)
     }
 
 }
