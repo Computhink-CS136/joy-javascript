@@ -39,7 +39,7 @@ function draw(){
 function keyPressed() {
     // rectSize = 100;
     //  if (key === 'c'){
-    background(220)
+    background(220);
     textsize(90);
     text(key, 50, 50);
 
