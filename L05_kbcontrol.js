@@ -40,7 +40,7 @@ function keyPressed() {
     rectSize = 100;
      if (key === 'c'){
         background(220)
-        fill("red")
+        fill("purple")
         circle(250, 150, 300);
     }
     else if (key === 's'){
