@@ -31,6 +31,12 @@ function draw(){
     if (keyIsDown(LEFT_ARROW)){
         xpos = xpos - 5;
     }
+    if (keyIsDown(LEFT_ARROW)){
+        xpos = xpos - 5;
+    }
+    if (keyIsDown(LEFT_ARROW)){
+        xpos = xpos - 5;
+    }
     fill("pink");
     circle(xpos, height/2, 50);
 }
