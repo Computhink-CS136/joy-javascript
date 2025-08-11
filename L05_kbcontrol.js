@@ -38,7 +38,7 @@ function draw(){
         ypos = ypos + 5;
     }
     fill("pink");
-    circle(xpos, height/2, 50);
+    circle(xpos, ypos, 50);
 }
 // function mousePressed() {
     // shapeColor = color(random(255), 0, random(255));
