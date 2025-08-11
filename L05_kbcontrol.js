@@ -38,7 +38,7 @@ function draw(){
     if (keyIsDown(DOWN_ARROW)){
         ypos = ypos + 5;
     }
-    ypos = (ypos)
+    ypos = constrain()
     fill("pink");
     circle(xpos, ypos, 50);
 }
