@@ -1,1 +1,46 @@
-// write your codes here
+// let circleSize = 5;
+// let shapeColor = "Blue";
+
+// let rectSize = 50;
+
+function setup() {
+    createCanvas(600, 400);
+    background(100);
+}
+
+function draw(){
+    background(100);
+    // noStroke();
+    // let xpos = 50;
+    // let ypos = 50;
+    // rect(xpos, ypos, rectSize, rectSize)
+    if (key === 'c'){
+        circle(250, 150, 300);
+    }
+    else if (key === 's'){
+        rect(50, 100, 200, 200);
+    }
+    else {
+        triangle(50, 350, 150, 50, 350, 350);
+    }
+
+}
+// function mousePressed() {
+    // shapeColor = color(random(255), 0, random(255));
+    // fill(shapeColor);
+    // circleSize = 5;
+// }
+// function mouseDragged() {
+    // circle(mouseX, mouseY, circleSize)
+    // circleSize = circleSize + 0.5
+// }
+
+function keyPressed() {
+    // rectSize = 100;
+
+}
+
+// function keyReleased(){
+    // rectSize = 50
+// }
+

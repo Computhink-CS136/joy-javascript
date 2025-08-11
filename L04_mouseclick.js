@@ -23,7 +23,7 @@ function draw() {
 //     }
 // noStroke();
 // fill(5, 50);
-circle(mouseX, mouseY, 50);
+// circle(mouseX, mouseY, 50);
 
 // circle(width/2, height/2, 100);
 
@@ -46,4 +46,14 @@ circle(mouseX, mouseY, 50);
 // function mouseReleased() {
 //     fill("purple")
     // shapeColor = "white";
+// }
+
+
+
+// function mouseDragged(){
+    fill("pink")
+    noStroke()
+    circle(mouseX, mouseY, 10)
+
+
 // }
