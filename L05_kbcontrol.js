@@ -45,6 +45,7 @@ function keyPressed() {
         rect(50, 100, 200, 200);
     }
     else {
+        backgrounf
         triangle(50, 350, 150, 50, 350, 350);
     }
 
