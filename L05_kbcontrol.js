@@ -48,15 +48,15 @@ function draw(){
     //     fill("red");
     //     circle(300, 200, 100);
     // }
-    if(keyCode === 40) { 
-        background(220);
-        fill("black");
+    // if(keyCode === 40) { 
+        // background(220);
+        // fill("black");
         // circle(300, 200, 100);
     // }
 
 
 
-}
+// }
         // fill("purple")
         // circle(250, 150, 300);
     // }
