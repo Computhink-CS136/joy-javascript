@@ -10,7 +10,7 @@ function setup() {
 }
 
 function draw(){
-    // background(100);
+    background(00);
     noStroke();
     // let xpos = 50;
     // let ypos = 50;
