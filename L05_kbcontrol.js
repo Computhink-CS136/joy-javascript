@@ -42,7 +42,7 @@ function keyPressed() {
     background(220);
     textsize(64);
     text(key, 50, 50);
-    text(keyCode)
+    text(keyCode, 50, 120)
 
 
 
