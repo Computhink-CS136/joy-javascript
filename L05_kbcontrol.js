@@ -41,7 +41,7 @@ function keyPressed() {
     //  if (key === 'c'){
     background(220)
     textsize(90)
-
+    text
 
 
 
