@@ -1,5 +1,6 @@
 // let circleSize = 5;
 // let shapeColor = "Blue";
+let xpos = 100
 
 // let rectSize = 50;
 
