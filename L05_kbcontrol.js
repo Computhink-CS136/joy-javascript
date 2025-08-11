@@ -44,7 +44,7 @@ function keyPressed() {
     // text(key, 50, 50);
     // text(keyCode, 50, 120)
     if(keyCode === 38);
-    
+        fill("red")
         circle(300, 200, 100);
     if(keyCode === 40);
         circle(300, 200, 100);
