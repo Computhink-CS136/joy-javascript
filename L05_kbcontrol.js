@@ -9,21 +9,21 @@ function setup() {
 }
 
 function draw(){
-    background(100);
+    // background(100);
     noStroke();
     // let xpos = 50;
     // let ypos = 50;
     // rect(xpos, ypos, rectSize, rectSize)
 
-    if (key === 'c'){
-        circle(250, 150, 300);
-    }
-    else if (key === 's'){
-        rect(50, 100, 200, 200);
-    }
-    else {
-        triangle(50, 350, 150, 50, 350, 350);
-    }
+    // if (key === 'c'){
+    //     circle(250, 150, 300);
+    // }
+    // else if (key === 's'){
+    //     rect(50, 100, 200, 200);
+    // }
+    // else {
+    //     triangle(50, 350, 150, 50, 350, 350);
+    // }
 
 }
 // function mousePressed() {
