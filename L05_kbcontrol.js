@@ -25,7 +25,9 @@ function draw(){
     // else {
     //     triangle(50, 350, 150, 50, 350, 350);
     // }
-    if (keyIsDown(RIGHT_ARROW)){}
+    if (keyIsDown(RIGHT_ARROW)){
+        
+    }
 
 }
 // function mousePressed() {
