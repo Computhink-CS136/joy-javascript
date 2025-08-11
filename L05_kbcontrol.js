@@ -39,11 +39,11 @@ function draw(){
 function keyPressed() {
     // rectSize = 100;
     //  if (key === 'c'){
-    background(220);
-    textSize(64);
-    text(key, 50, 50);
-    text(keyCode, 50, 120)
-
+    // background(220);
+    // textSize(64);
+    // text(key, 50, 50);
+    // text(keyCode, 50, 120)
+    i
 
 
 
