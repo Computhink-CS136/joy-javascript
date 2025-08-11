@@ -35,7 +35,7 @@ function draw(){
         ypos = ypos - 5;
     }
     if (keyIsDown(DOWN_ARROW)){
-        xpos = xpos - 5;
+        ypos = ypos + 5;
     }
     fill("pink");
     circle(xpos, height/2, 50);
