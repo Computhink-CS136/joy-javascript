@@ -40,6 +40,22 @@ function keyPressed() {
     // rectSize = 100;
     //  if (key === 'c'){
     background(220)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         // fill("purple")
         // circle(250, 150, 300);
     // }
