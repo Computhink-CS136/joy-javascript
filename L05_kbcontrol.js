@@ -1,7 +1,7 @@
 // let circleSize = 5;
 // let shapeColor = "Blue";
-let xpos = 100
-let ypos = 
+let xpos = 300
+let ypos = 200
 // let rectSize = 50;
 
 function setup() {
