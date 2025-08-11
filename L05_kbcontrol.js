@@ -26,7 +26,10 @@ function draw(){
     //     triangle(50, 350, 150, 50, 350, 350);
     // }
     if (keyIsDown(RIGHT_ARROW)){
-        xpos = xpos + 5
+        xpos = xpos + 5;
+    }
+    if (keyIsDown(LEFT_ARROW)){
+        
     }
 
 }
