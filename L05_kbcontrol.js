@@ -48,11 +48,11 @@ function keyPressed() {
         fill("red");
         circle(300, 200, 100);
     }
-    if(keyCode === 40);
+    if(keyCode === 40) { 
         background(220);
         fill("black");
         circle(300, 200, 100);
-
+    }
 
 
 
