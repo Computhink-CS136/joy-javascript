@@ -45,9 +45,8 @@ function keyPressed() {
         rect(50, 100, 200, 200);
     }
     else {
-        background(220
-            
-        )
+        background(220)
+        
         triangle(50, 350, 150, 50, 350, 350);
     }
 
