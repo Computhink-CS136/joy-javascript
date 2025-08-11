@@ -39,9 +39,9 @@ function draw(){
 function keyPressed() {
     rectSize = 100;
      if (key === 'c'){
-        background(220)
-        fill("purple")
-        circle(250, 150, 300);
+        // background(220)
+        // fill("purple")
+        // circle(250, 150, 300);
     }
     else if (key === 's'){
         background(220)
