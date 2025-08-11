@@ -31,7 +31,8 @@ function draw(){
     if (keyIsDown(LEFT_ARROW)){
         circle(xpos, height/2, 50)
     }
-    fill("yellow")
+    fill("yellow");
+    circle
 }
 // function mousePressed() {
     // shapeColor = color(random(255), 0, random(255));
