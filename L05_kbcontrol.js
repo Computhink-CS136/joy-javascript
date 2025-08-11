@@ -49,13 +49,6 @@ function keyPressed() {
 
 
 
-
-
-
-
-
-
-
         // fill("purple")
         // circle(250, 150, 300);
     // }
