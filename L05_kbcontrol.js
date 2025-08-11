@@ -38,6 +38,7 @@ function draw(){
     if (keyIsDown(DOWN_ARROW)){
         ypos = ypos + 5;
     }
+    ypos = (ypos)
     fill("pink");
     circle(xpos, ypos, 50);
 }
