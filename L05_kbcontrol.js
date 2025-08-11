@@ -77,7 +77,7 @@ function draw(){
     // rectSize = 50
 // }
 
-
+let xpos
 
 
 
