@@ -43,7 +43,8 @@ function keyPressed() {
     // textSize(64);
     // text(key, 50, 50);
     // text(keyCode, 50, 120)
-    if (keyCode === 38)
+    if (keyCode === 38);
+        
 
 
 
