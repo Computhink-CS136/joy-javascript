@@ -14,6 +14,7 @@ function draw(){
     // let xpos = 50;
     // let ypos = 50;
     // rect(xpos, ypos, rectSize, rectSize)
+    
     if (key === 'c'){
         circle(250, 150, 300);
     }
