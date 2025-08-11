@@ -76,24 +76,3 @@ function draw(){
 // function keyReleased(){
     // rectSize = 50
 // }
-
-let xpos
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
