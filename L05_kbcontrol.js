@@ -36,17 +36,17 @@ function draw(){
     // circleSize = circleSize + 0.5
 // }
 
-// function keyPressed() {
-//     rectSize = 100;
-//      if (key === 'c'){
-//         circle(250, 150, 300);
-//     }
-//     else if (key === 's'){
-//         rect(50, 100, 200, 200);
-//     }
-//     else {
-//         triangle(50, 350, 150, 50, 350, 350);
-//     }
+function keyPressed() {
+    rectSize = 100;
+     if (key === 'c'){
+        circle(250, 150, 300);
+    }
+    else if (key === 's'){
+        rect(50, 100, 200, 200);
+    }
+    else {
+        triangle(50, 350, 150, 50, 350, 350);
+    }
 
 // }
 
@@ -54,3 +54,4 @@ function draw(){
     // rectSize = 50
 // }
 
+}
