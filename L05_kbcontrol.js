@@ -31,8 +31,8 @@ function draw(){
     if (keyIsDown(LEFT_ARROW)){
         xpos = xpos - 5;
     }
-    fill("yellow");
-    circle(xpos, height/2, 50)
+    fill("pink");
+    circle(xpos, height/2, 50);
 }
 // function mousePressed() {
     // shapeColor = color(random(255), 0, random(255));
