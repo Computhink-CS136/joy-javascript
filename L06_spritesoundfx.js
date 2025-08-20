@@ -46,6 +46,8 @@ function draw() {
 //     //     fill("pink");
 //     // }
     ypos = constrain(ypos, 0, height-133);
+
+    circle
 }
     
 
