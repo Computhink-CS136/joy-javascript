@@ -48,7 +48,7 @@ function draw() {
     ypos = constrain(ypos, 0, height-133);
 
     circle(300, 200, 200)
-    rect(500, 200, 20, 50)
+    rect(400, 200, 200, 200)
     triangle(0, 200, 200, 200, 100, 0)
 }
     
