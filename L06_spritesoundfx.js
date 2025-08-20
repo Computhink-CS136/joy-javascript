@@ -34,7 +34,7 @@ function draw() {
         ypos = ypos + 5;
     }
     if (keyIsDown(30)){
-        fill("pink")
+        fill("pink");
     }
     ypos = constrain(ypos, 0+40, height-2*40);
 }
