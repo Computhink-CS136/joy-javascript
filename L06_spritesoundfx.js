@@ -49,7 +49,7 @@ function draw() {
 
     circle(300, 200, 50)
     rect(30, 30, 50, 50)
-    triangle(200, 200, 100, 0, 0, 50)
+    triangle()
 }
     
 
