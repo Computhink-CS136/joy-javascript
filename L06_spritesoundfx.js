@@ -14,6 +14,7 @@ function setup(){
 }
 function draw() {}
     background("pink")
+    image()
 //     fill("white");
 //     rect(30, 30, 340, 340);
 
