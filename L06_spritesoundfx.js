@@ -29,7 +29,7 @@ function draw() {
         xpos = xpos - 5;
     }
     xpos = constrain(xpos, 0, 400-110);
-    
+
 
     if (keyIsDown(UP_ARROW)){
         ypos = ypos - 5;
@@ -40,7 +40,7 @@ function draw() {
 //     // if (keyIsDown("30")){
 //     //     fill("pink");
 //     // }
-    ypos = constrain(ypos, 0+40, height-2*40);
+    ypos = constrain(ypos, 30, 10);
 }
     
 
