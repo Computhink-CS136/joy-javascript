@@ -12,7 +12,7 @@ function setup(){
     createCanvas(600, 400);
     background("pink");
 
-    bgMus
+    bgMusic.loop()
 }
 function draw() {
     background("pink");
