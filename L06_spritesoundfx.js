@@ -33,9 +33,10 @@ function draw() {
     if (keyIsDown(UP_ARROW)){
         ypos = ypos - 5;
     }
-    if (keyIsDown(DOWN_ARROW)){
+    else if (keyIsDown(DOWN_ARROW)){
         ypos = ypos + 5;
     }
+    
 //     // if (keyIsDown("30")){
 //     //     fill("pink");
 //     // }
