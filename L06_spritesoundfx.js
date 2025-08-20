@@ -13,7 +13,7 @@ function setup(){
     background("pink");
 }
 function draw() {}
-    
+    background()
 //     fill("white");
 //     rect(30, 30, 340, 340);
 
