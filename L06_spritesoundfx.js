@@ -12,7 +12,7 @@ function setup(){
     createCanvas(600, 400);
     background("pink");
 }
-function draw() {}
+function draw() {
     background("pink");
     image(staticImage, xpos, ypos, 110, 133);
 
@@ -35,13 +35,12 @@ function draw() {}
     }
     if (keyIsDown(DOWN_ARROW)){
         ypos = ypos + 5;
-//     }
+    }
 //     // if (keyIsDown("30")){
 //     //     fill("pink");
 //     // }
     ypos = constrain(ypos, 0+40, height-2*40);
 }
     
-
 
 
