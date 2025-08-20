@@ -37,7 +37,7 @@ function draw() {
         ypos = ypos + 5;
     }
     else if (keyIsDown(32)){
-        sound 
+        soundEffect.play()
     }
 
 //     // if (keyIsDown("30")){
