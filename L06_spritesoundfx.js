@@ -33,7 +33,9 @@ function draw() {
     if (keyIsDown(DOWN_ARROW)){
         ypos = ypos + 5;
     }
-    if (keyIsDown(30))
+    if (keyIsDown(30)){
+        fill("pink")
+    }
     ypos = constrain(ypos, 0+40, height-2*40);
 }
     
