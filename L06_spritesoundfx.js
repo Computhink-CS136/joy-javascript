@@ -39,7 +39,7 @@ function draw() {
 //     // if (keyIsDown("30")){
 //     //     fill("pink");
 //     // }
-    ypos = constrain(ypos, 0+40, height-2*40);
+    // ypos = constrain(ypos, 0+40, height-2*40);
 }
     
 
