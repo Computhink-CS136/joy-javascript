@@ -15,32 +15,32 @@ function setup(){
 function draw() {}
     background("pink");
     image(staticImage, xpos, ypos, 110, 133);
-    
+
 //     fill("white");
 //     rect(30, 30, 340, 340);
 
 //     fill("black");
 //     rect(xpos, ypos, 35, 35);
 
-//     if (keyIsDown(RIGHT_ARROW)){
-//         xpos = xpos + 5;
-//     }
-//     if (keyIsDown(LEFT_ARROW)){
-//         xpos = xpos - 5;
-//     }
-//     xpos = constrain(xpos, 0+40, width-2*40);
+    if (keyIsDown(RIGHT_ARROW)){
+        xpos = xpos + 5;
+    }
+    if (keyIsDown(LEFT_ARROW)){
+        xpos = xpos - 5;
+    }
+    xpos = constrain(xpos, 0+40, width-2*40);
 
-//     if (keyIsDown(UP_ARROW)){
-//         ypos = ypos - 5;
-//     }
-//     if (keyIsDown(DOWN_ARROW)){
-//         ypos = ypos + 5;
+    if (keyIsDown(UP_ARROW)){
+        ypos = ypos - 5;
+    }
+    if (keyIsDown(DOWN_ARROW)){
+        ypos = ypos + 5;
 //     }
 //     // if (keyIsDown("30")){
 //     //     fill("pink");
 //     // }
-//     ypos = constrain(ypos, 0+40, height-2*40);
-// }
+    ypos = constrain(ypos, 0+40, height-2*40);
+}
     
 
 
