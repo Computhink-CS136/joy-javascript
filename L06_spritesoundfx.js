@@ -47,7 +47,7 @@ function draw() {
 //     // }
     ypos = constrain(ypos, 0, height-133);
 
-    circle
+    circle(50, 50, 150)
 }
     
 
