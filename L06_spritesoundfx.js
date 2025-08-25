@@ -42,7 +42,7 @@ function draw() {
         ypos = ypos + 5;
     }
     
-                 if (keyIsDown(32)){
+    if (keyIsDown(32)){
         soundEffect.play()
     }
 
