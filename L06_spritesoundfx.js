@@ -21,7 +21,7 @@ function draw() {
     background("pink");
     // image(staticImage, xpos, ypos, 110, 133);
     image(secondguy, xpos, ypos, 109, 125)
-    image(starfish, )
+    image(starfish, xpos, ypos, )
 
 //     fill("white");
 //     rect(30, 30, 340, 340);
