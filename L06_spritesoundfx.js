@@ -56,7 +56,7 @@ function draw() {
     // circle(300, 200, 200)
     // rect(400, 200, 200, 200)
     // triangle(0, 200, 200, 200, 100, 0)
-    if (keyIsDown(RIGHT_ARROW)){
+    if (keyIsDown()){
         xpos = xpos + 5;
     }
     if (keyIsDown(LEFT_ARROW)){
