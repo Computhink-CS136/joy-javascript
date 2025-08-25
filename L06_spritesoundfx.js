@@ -59,7 +59,7 @@ function draw() {
     if (keyIsDown(85)){
         xpos = xpos + 5;
     }
-    if (keyIsDown(LEFT_ARROW)){
+    if (keyIsDown(8)){
         xpos = xpos - 5;
     }
     xpos = constrain(xpos, 0, width-110);
