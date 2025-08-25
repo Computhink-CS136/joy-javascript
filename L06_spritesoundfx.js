@@ -38,7 +38,8 @@ function draw() {
     else if (keyIsDown(DOWN_ARROW)){
         ypos = ypos + 5;
     }
-    else if (keyIsDown(32)){
+    
+    if (keyIsDown(32)){
         soundEffect.play()
     }
 
