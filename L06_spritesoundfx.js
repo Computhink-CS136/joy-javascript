@@ -56,29 +56,29 @@ function draw() {
     // circle(300, 200, 200)
     // rect(400, 200, 200, 200)
     // triangle(0, 200, 200, 200, 100, 0)
-    if (keyIsDown(85)){
-        xpos = xpos + 5;
-    }
-    if (keyIsDown(68)){
-        xpos = xpos - 5;
-    }
-    xpos = constrain(xpos, 0, width-110);
+//     if (keyIsDown(85)){
+//         xpos = xpos + 5;
+//     }
+//     if (keyIsDown(68)){
+//         xpos = xpos - 5;
+//     }
+//     xpos = constrain(xpos, 0, width-110);
 
-    if (keyIsDown()){
-        ypos = ypos - 5;
-    }
-    else if (keyIsDown(DOWN_ARROW)){
-        ypos = ypos + 5;
-    }
+//     if (keyIsDown()){
+//         ypos = ypos - 5;
+//     }
+//     else if (keyIsDown(DOWN_ARROW)){
+//         ypos = ypos + 5;
+//     }
     
-    if (keyIsDown(32)){
-        soundEffect.play()
-    }
+//     if (keyIsDown(32)){
+//         soundEffect.play()
+//     }
 
-//     // if (keyIsDown("30")){
-//     //     fill("pink");
-//     // }
-    ypos = constrain(ypos, 0, height-133);
+// //     // if (keyIsDown("30")){
+// //     //     fill("pink");
+// //     // }
+//     ypos = constrain(ypos, 0, height-133);
 
     // circle(300, 200, 200)
     // rect(400, 200, 200, 200)
