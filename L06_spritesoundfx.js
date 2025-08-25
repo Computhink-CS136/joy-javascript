@@ -19,7 +19,7 @@ function setup(){
 function draw() {
     background("pink");
     image(staticImage, xpos, ypos, 110, 133);
-    image(secondguy, 200, 200, 96)
+    image(secondguy, 200, 200, )
 
 //     fill("white");
 //     rect(30, 30, 340, 340);
