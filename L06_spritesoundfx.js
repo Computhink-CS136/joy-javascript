@@ -76,7 +76,7 @@ function draw() {
         ypos = ypos + 5;
     }
     
-    if (keyIsDown(68)){
+    if (keyIsDown()){
         soundEffect.play()
     }
 
