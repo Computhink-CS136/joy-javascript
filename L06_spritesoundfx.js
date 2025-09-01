@@ -3,7 +3,8 @@ let xpos = 300;
 let ypos = 200;
 
 let penG;
-let penGx, penGy
+let penGx = 200 
+let penGy
 let starfish;
 
 
