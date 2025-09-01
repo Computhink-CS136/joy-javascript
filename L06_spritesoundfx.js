@@ -4,7 +4,7 @@ let ypos = 200;
 let secondguy;
 let penGx, penGy
 let starfish;
-let 
+
 
 function preload() {
     soundEffect = loadSound("assets/pop.mp3")
