@@ -13,7 +13,7 @@ function draw() {
     }
  
     if (keyIsDown(RIGHT_ARROW)){
-        x=x+5
+        x=x+5;
     }
     
     if (x > 400-25){
