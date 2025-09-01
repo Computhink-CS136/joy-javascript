@@ -2,6 +2,7 @@ let soundEffect, bgMusic, staticImage;
 let xpos = 300;
 let ypos = 200;
 let secondguy;
+let second
 let starfish;
 
 function preload() {
