@@ -72,11 +72,11 @@ function draw() {
     if (keyIsDown(82)){
         ypos = ypos - 5;
     }
-    else if (keyIsDown(82)){
+    else if (keyIsDown(85)){
         ypos = ypos + 5;
     }
     
-    if (keyIsDown(32)){
+    if (keyIsDown(68)){
         soundEffect.play()
     }
 
