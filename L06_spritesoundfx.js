@@ -46,7 +46,7 @@ function draw() {
         secondguyY = secondguyY - 5;
     }
     else if (keyIsDown(DOWN_ARROW)){
-        secondguyY = ypos + 5;
+        secondguyY = secondguyY + 5;
     }
     
     if (keyIsDown(32)){
