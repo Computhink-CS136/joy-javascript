@@ -1,4 +1,6 @@
 let x = 200;
+let y = 200;
+
 function setup(){
     createCanvas(600, 400);
     background("pink");
