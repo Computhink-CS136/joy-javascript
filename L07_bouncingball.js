@@ -15,5 +15,6 @@ function draw() {
     if (keyIsDown(RIGHT_ARROW)){
         x=x+5
     }
-    i
+    
+    if (x > 400-25)
 }
