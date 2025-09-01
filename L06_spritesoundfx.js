@@ -35,12 +35,12 @@ function draw() {
 //     rect(xpos, ypos, 35, 35);
 
     if (keyIsDown(RIGHT_ARROW)){
-        xpos = xpos + 5;
+        secondguyX = secondguyX + 5;
     }
     if (keyIsDown(LEFT_ARROW)){
-        xpos = xpos - 5;
+        secondguyX = secondguyX - 5;
     }
-    xpos = constrain(xpos, 0, width-110);
+    xpos = constrain(secondguyX, 0, width-110);
 
     if (keyIsDown(UP_ARROW)){
         ypos = ypos - 5;
