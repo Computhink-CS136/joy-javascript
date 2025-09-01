@@ -11,7 +11,7 @@ function preload() {
     soundEffect = loadSound("assets/pop.mp3")
     bgMusic = loadSound("assets/bossaNova.mp3")
     staticImage = loadImage("assets/pico-a.png")
-    secondguy = loadImage('assets/penguin2-a.svg')
+    penG = loadImage('assets/penguin2-a.svg')
     starfish = loadImage("assets/starfish-a.svg")
 }
 
