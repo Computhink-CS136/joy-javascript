@@ -3,7 +3,7 @@ let xpos = 300;
 let ypos = 200;
 
 let penG;
-let penGxpos = 200 
+let secondguyX = 200 
 let penGypos = 200
 let starfish;
 
