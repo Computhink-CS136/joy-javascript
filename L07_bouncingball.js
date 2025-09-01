@@ -13,7 +13,7 @@ function draw() {
     }
  
     if (keyIsDown(RIGHT_ARROW)){
-        
+        x=x+5
 
     }
 
