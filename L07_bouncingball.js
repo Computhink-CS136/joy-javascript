@@ -12,7 +12,9 @@ function draw() {
         x = x - 5;
     }
 
-    if (x > )
+    if (x > 25){
+        
+    }
 
 
     if (keyIsDown(RIGHT_ARROW)){
