@@ -10,6 +10,5 @@ function draw() {
 
     if (keyIsDown(LEFT_ARROW)){
         x = x - 5;
-
     }
 }
