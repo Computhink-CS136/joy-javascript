@@ -67,7 +67,7 @@ function draw() {
     if (keyIsDown(76)){
         ypos = ypos - 5;
     }
-    else if (keyIsDown(DOWN_ARROW)){
+    else if (keyIsDown(82)){
         ypos = ypos + 5;
     }
     
