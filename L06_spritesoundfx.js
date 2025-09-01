@@ -24,7 +24,7 @@ function setup(){
 function draw() {
     background("pink");
     // image(staticImage, xpos, ypos, 110, 133);
-    image(secondguy, penGxpos, penGypos, 109, 125);
+    image(penG, penGxpos, penGypos, 109, 125);
     image(starfish, xpos, ypos, 119, 130);
 
 //     fill("white");
