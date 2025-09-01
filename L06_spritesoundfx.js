@@ -56,7 +56,7 @@ function draw() {
 //     // if (keyIsDown("30")){
 //     //     fill("pink");
 //     // }
-    ypos = constrain(ypos, 0, height-133);
+    secondguyY = constrain(secondguyY, 0, height-133);
 
     // circle(300, 200, 200)
     // rect(400, 200, 200, 200)
