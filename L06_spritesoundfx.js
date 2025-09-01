@@ -4,7 +4,7 @@ let ypos = 200;
 
 let penG;
 let penGx = 200 
-let penGy
+let penGy = 200
 let starfish;
 
 
