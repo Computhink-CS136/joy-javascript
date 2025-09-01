@@ -9,6 +9,7 @@ function preload() {
     bgMusic = loadSound("assets/bossaNova.mp3")
     staticImage = loadImage("assets/pico-a.png")
     secondguy = loadImage('assets/penguin2-a.svg')
+    starfish = loadImage("")
 }
 
 function setup(){
