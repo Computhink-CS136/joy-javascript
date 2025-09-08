@@ -1,5 +1,5 @@
-let x = 200;
-let y = 200;
+let x = 50;
+let y = 50;
 let ballSize = 50;
 let speedX = 2;
 let speedY = 2;
@@ -11,6 +11,7 @@ function setup(){
 
 function draw() {
     background("pink");
+
     circle(x, y, ballSize);
 
     // if (keyIsDown(LEFT_ARROW)){
