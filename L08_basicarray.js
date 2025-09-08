@@ -14,6 +14,9 @@ function setup() {
     text("What do you want to do?", 20, 100)
     text("Choose:", 20, 150)
     text("'Read a book'  'Play a game'", 20, 200)
+
+    let xpos = 100;
+    
 }
 
 function draw(){
