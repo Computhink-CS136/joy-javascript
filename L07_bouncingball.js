@@ -10,7 +10,7 @@ function setup(){
 }
 
 function draw() {
-    background("pink");
+    // background("pink");
     fill("purple");
     circle(x, y, ballSize);
 
