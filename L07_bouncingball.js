@@ -13,9 +13,9 @@ function draw() {
     background("pink");
     circle(x, height/2, 50);
 
-    if (keyIsDown(LEFT_ARROW)){
-        x = x - 5;
-    }
+    // if (keyIsDown(LEFT_ARROW)){
+    //     x = x - 5;
+    // }
 
     // if (x < 25){
     //     x = 25;
