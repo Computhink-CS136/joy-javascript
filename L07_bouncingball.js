@@ -23,6 +23,7 @@ function draw() {
     if (x < 0){
         speedX = speedX * (-1)
     }
+    
 
     // if (keyIsDown(LEFT_ARROW)){
     //     x = x - 5;
