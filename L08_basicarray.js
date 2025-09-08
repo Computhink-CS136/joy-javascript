@@ -9,7 +9,8 @@ function setup() {
     background(200);
 
     textSize(32);
-    text("Hello, my friend. ", 20, 50);
+    text("Hello, my friend. Do you feel lucky?", 20, 50);
+    
 }
 
 function draw(){
