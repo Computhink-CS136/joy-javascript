@@ -17,7 +17,7 @@ function setup() {
 
     let favFoods = ["sushi", "udon", "soba", "miso", "chawamushi"]
     for (let index=0; index < favFoods.length; index++);
-        console.loog( favFoods[index] );
+        console.log( favFoods[index] );
 
     // text("I am Chicken Feathery.", 20, 50)
     // text("People like to eat me.", 20, 100)
