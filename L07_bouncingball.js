@@ -11,7 +11,7 @@ function setup(){
 
 function draw() {
     background("pink");
-
+    
     circle(x, y, ballSize);
 
     // if (keyIsDown(LEFT_ARROW)){
