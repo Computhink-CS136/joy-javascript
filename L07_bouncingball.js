@@ -20,11 +20,11 @@ function draw() {
     y = y + speedY;
 
     if (x > 400-25){
-        speedX = speedX * (-1) * (1.1)
+        speedX = speedX * (-1)
         fill( random(0,255), random(0,255), random(0,255))
     }
     if (x < 0+25){
-        speedX = speedX * (-1) * (1.1)
+        speedX = speedX * (-1)
         fill( random(0,255), random(0,255), random(0,255))
     }
     if (y > 400-25){
