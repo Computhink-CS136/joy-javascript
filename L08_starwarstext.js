@@ -1,1 +1,19 @@
-// write your codes here
+let soundfx
+
+function preload{
+    soundfx = loadSound('attack-theme-382730.mp3')
+}
+
+function setup(){
+    createCanvas(600, 400);
+    background(80);
+}
+
+function draw(){
+    if ( keyIsDown(32) ){
+        soundfx.play()
+    }
+    if ( keyIsDown(DOWN_ARROW) ){
+        soundfx.stop()
+    }
+}
