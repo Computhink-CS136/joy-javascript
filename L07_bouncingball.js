@@ -20,6 +20,9 @@ function draw() {
     if (x > 400){
         speedX = speedX * (-1)
     }
+    if (x < 0){
+        
+    }
 
     // if (keyIsDown(LEFT_ARROW)){
     //     x = x - 5;
