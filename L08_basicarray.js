@@ -15,6 +15,8 @@ function setup() {
     text("Choose:", 20, 150)
     text("'Read a book'  'Play a game'", 20, 200)
 
+    text
+
     // let xpos = 100;
     // for (let count=0; count<5; count++){
     //     circle(xpos, 250, 50);
