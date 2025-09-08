@@ -33,7 +33,7 @@ function draw() {
     }
     if (y < 0+25){
         speedY = speedY * (-1) * (1.1)
-        
+        fill( random(0,255), random(0,255), random(0,255))
     }
 
     // if (keyIsDown(LEFT_ARROW)){
