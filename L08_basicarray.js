@@ -10,7 +10,7 @@ function setup() {
 
     fill("pink")
     textSize(32);
-    text("Hello.Bot1806j activated.", 20, 50);
+    text("Hello. Bot1806j activated.", 20, 50);
     text("What do you want to do?", 20, 100)
     text("Choose:", 20, 150)
     text("'Read a book'  'Play a game'", 20, 200)
