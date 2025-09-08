@@ -17,7 +17,8 @@ function setup() {
 
     let xpos = 100;
     for (let count=0; count<5; count++){
-        circle(xpos, 200, )
+        circle(xpos, 200, 50);
+        xpos = xpos
     }
 }
 
