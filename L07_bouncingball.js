@@ -27,7 +27,7 @@ function draw() {
         speedY = speedY * (-1) * (1.1)
     }
     if (y < 0){
-        speedY = speedY * (-1)
+        speedY = speedY * (-1) * (1.1)
     }
 
     // if (keyIsDown(LEFT_ARROW)){
