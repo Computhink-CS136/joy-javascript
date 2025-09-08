@@ -17,7 +17,7 @@ function setup() {
 
     text("I am Chicken Feathery.", 20, 50)
     text("People like to eat me.", 20, 100)
-    
+    text("")
 
     // let xpos = 100;
     // for (let count=0; count<5; count++){
