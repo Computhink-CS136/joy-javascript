@@ -8,7 +8,7 @@ function setup() {
     createCanvas(600, 400);
     background(200);
 
-    
+    fill("pink")
     textSize(32);
     text("Hello, my friend. Do you feel lucky?", 20, 50);
     text("Do play a card game with me.", 20, 100)
