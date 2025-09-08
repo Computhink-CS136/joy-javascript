@@ -5,7 +5,7 @@ function preload() {
 }
 
 function setup() {
-    createCanvas(600, 400);
+    createCanvas(800, 400);
     background(80);
 
     fill("pink")
@@ -15,9 +15,9 @@ function setup() {
     // text("Choose:", 20, 150)
     // text("'Read a book'  'Play a game'", 20, 200)
 
-    text("I am Chicken Feathery.", 20, 50)
-    text("People like to eat me.", 20, 100)
-    text("Ouch! Someone just ate my wing. Help!!!", 20, 150)
+    // text("I am Chicken Feathery.", 20, 50)
+    // text("People like to eat me.", 20, 100)
+    // text("Ouch! Someone just ate my wing. Help!!!", 20, 150)
 
     // let xpos = 100;
     // for (let count=0; count<5; count++){
