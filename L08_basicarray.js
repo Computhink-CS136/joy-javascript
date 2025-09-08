@@ -6,7 +6,7 @@ function preload() {
 
 function setup() {
     createCanvas(600, 400);
-    background(80);
+    background(200);
 
     textSize(32);
     text("Hello, my friend.", 20, 50);
