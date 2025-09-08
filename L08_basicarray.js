@@ -16,7 +16,9 @@ function setup() {
     text("'Read a book'  'Play a game'", 20, 200)
 
     let xpos = 100;
-    for (let count=0; count<5; count++)
+    for (let count=0; count<5; count++){
+        circle()
+    }
 }
 
 function draw(){
