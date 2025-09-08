@@ -10,7 +10,7 @@ function setup() {
 
     textSize(32);
     text("Hello, my friend. Do you feel lucky?", 20, 50);
-    text("Do play a game with me.", 20, 100)
+    text("Do play a card game with me.", 20, 100)
 }
 
 function draw(){
