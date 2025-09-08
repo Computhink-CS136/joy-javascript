@@ -5,7 +5,7 @@ let speedX = 2;
 let speedY = 2;
 
 function setup(){
-    createCanvas(400, 400);
+    createCanvas(600, 400);
     background("pink");
     fill("purple");
 }
