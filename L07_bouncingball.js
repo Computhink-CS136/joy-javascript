@@ -1,5 +1,5 @@
-let x = 50;
-let y = 150;
+let x = 200;
+let y = 200;
 let ballSize = 50;
 let speedX = 2;
 let speedY = 2;
