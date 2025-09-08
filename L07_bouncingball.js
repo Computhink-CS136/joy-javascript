@@ -1,6 +1,6 @@
 let x = 200;
 let y = 200;
-ballS
+let ballSize = 
 
 function setup(){
     createCanvas(400, 400);
