@@ -15,7 +15,11 @@ function setup() {
     text("Choose:", 20, 150)
     text("'Read a book'  'Play a game'", 20, 200)
 
-/z
+    // let xpos = 100;
+    // for (let count=0; count<5; count++){
+    //     circle(xpos, 250, 50);
+    //     xpos = xpos + 55;
+    // }
 }
 
 function draw(){
