@@ -7,12 +7,13 @@ let speedY = 2;
 function setup(){
     createCanvas(400, 400);
     background("pink");
+    fill("purple");
 }
 
 function draw() {
     // background("pink");
     noStroke()
-    fill("purple");
+    
     circle(x, y, ballSize);
 
     x = x + speedX;
