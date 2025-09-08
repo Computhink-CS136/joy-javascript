@@ -9,7 +9,7 @@ function setup() {
     background(80);
 
     textSize(32);
-    text("Hello")
+    text("Hello, my friend.")
 }
 
 function draw(){
