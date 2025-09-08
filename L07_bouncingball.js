@@ -11,10 +11,11 @@ function setup(){
 
 function draw() {
     background("pink");
-    fill("purple")
+    fill("purple");
     circle(x, y, ballSize);
 
-    x = x + speed
+    x = x + speedX;
+    
 
     // if (keyIsDown(LEFT_ARROW)){
     //     x = x - 5;
