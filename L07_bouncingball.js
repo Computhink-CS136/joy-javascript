@@ -17,13 +17,13 @@ function draw() {
         x = x - 5;
     }
 
-    if (x < 25){
-        x = 25;
-    }
+    // if (x < 25){
+    //     x = 25;
+    // }
 
-    if (keyIsDown(RIGHT_ARROW)){
-        x=x+5;
-    }
+    // if (keyIsDown(RIGHT_ARROW)){
+    //     x=x+5;
+    // }
     
     // if (x > 400-25){
         // x = 400-25;
