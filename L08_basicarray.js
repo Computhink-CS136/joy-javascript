@@ -15,7 +15,7 @@ function setup() {
     text("Choose:", 20, 150)
     text("'Read a book'  'Play a game'", 20, 200)
 
-    let favFoods = ["sushi", "udon", "soba", ]
+    let favFoods = ["sushi", "udon", "soba", "jelly"]
 
     // text("I am Chicken Feathery.", 20, 50)
     // text("People like to eat me.", 20, 100)
