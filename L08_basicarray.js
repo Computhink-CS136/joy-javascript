@@ -11,7 +11,7 @@ function setup() {
     fill("pink")
     textSize(32);
     text("Hello.Bot1806j activated.", 20, 50);
-    text("Do play a card game with me.", 20, 100)
+    text("what do you want to do", 20, 100)
 }
 
 function draw(){
