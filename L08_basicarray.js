@@ -4,7 +4,7 @@ function preload() {
     soundfx = loadSound('assets/attack-theme-382730.mp3')
 }
 
-function setup(){
+function setup() {
     createCanvas(600, 400);
     background(80);
 }
