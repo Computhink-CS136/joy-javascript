@@ -15,7 +15,7 @@ function setup() {
     text("Choose:", 20, 150)
     text("'Read a book'  'Play a game'", 20, 200)
 
-    text("I am Chicken ")
+    text("I am Chicken Feathery.")
 
     // let xpos = 100;
     // for (let count=0; count<5; count++){
