@@ -11,6 +11,7 @@ function setup(){
 
 function draw() {
     // background("pink");
+    noStroke
     fill("purple");
     circle(x, y, ballSize);
 
