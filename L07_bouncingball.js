@@ -19,7 +19,7 @@ function draw() {
     x = x + speedX;
     y = y + speedY;
 
-    if (x > 400-25){
+    if (x > 600-25){
         speedX = speedX * (-1)
         fill( random(0,255), random(0,255), random(0,255))
     }
@@ -27,7 +27,7 @@ function draw() {
         speedX = speedX * (-1)
         fill( random(0,255), random(0,255), random(0,255))
     }
-    if (y > 400-25){
+    if (y > 600-25){
         speedY = speedY * (-1)
         fill( random(0,255), random(0,255), random(0,255))
     }
