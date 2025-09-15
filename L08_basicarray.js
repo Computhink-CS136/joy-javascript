@@ -8,7 +8,7 @@ function setup() {
     createCanvas(400, 400);
     background(150);
 
-        fill("purple")
+    fill("purple")
     rect(width/2, height/2, 200, 200);
     fill("pink")
     textSize(32);
