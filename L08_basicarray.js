@@ -8,17 +8,17 @@ function setup() {
     createCanvas(800, 400);
     background(80);
 
-    fill("pink")
-    textSize(32);
-    text("Hello. Bot1806j activated.", 20, 50);
-    text("What do you want to do?", 20, 100)
-    text("Choose:", 20, 150)
-    text("'Read a book'  'Play a game'", 20, 200)
+    // fill("pink")
+    // textSize(32);
+    // text("Hello. Bot1806j activated.", 20, 50);
+    // text("What do you want to do?", 20, 100)
+    // text("Choose:", 20, 150)
+    // text("'Read a book'  'Play a game'", 20, 200)
 
-    let ypos = 50;
-    let favFoods = ["sushi", "udon", "soba", "miso", "chawamushi"]
-    for (let index=0; index < favFoods.length; index++){
-        console.log( favFoods[index] );
+    // let ypos = 50;
+    // let favFoods = ["sushi", "udon", "soba", "miso", "chawamushi"]
+    // for (let index=0; index < favFoods.length; index++){
+    //     console.log( favFoods[index] );
 
         // text(favFoods[index], 20, ypos);
         // ypos = ypos + 50;
