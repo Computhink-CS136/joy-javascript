@@ -25,6 +25,6 @@ function draw() {
     fill("orange");
     textSize(32);
     textAlign(CENTER, CENTER);
-    text("The curse of the Fames", 0, 0)
+    text("The Curse of the Flames", 0, 0)
     ypos = ypos - 1;
 }
