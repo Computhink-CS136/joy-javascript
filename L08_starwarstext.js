@@ -21,11 +21,13 @@ function draw() {
         soundfx.stop()
     }
 
+    
+
     translate( width/2, ypos)
-    fill("magenta");
+    fill("orange");
     textSize(40);
     textAlign(CENTER, CENTER);
     text("The Curse of the Flames", 0, 0);
-    
+
     ypos = ypos - 1;
 }
