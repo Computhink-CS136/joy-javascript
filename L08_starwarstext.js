@@ -1,4 +1,5 @@
 let soundfx;
+let ypos;
 
 function preload() {
     soundfx = loadSound('assets/attack-theme-382730.mp3');
