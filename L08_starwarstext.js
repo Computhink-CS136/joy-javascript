@@ -25,7 +25,7 @@ function draw() {
     fill("orange");
     textSize(40);
     textAlign(CENTER, CENTER);
-    text("Welcome", 0, 0)
-    text("My name is Joy", 0, 50)l
+    text("Welcome", 0, 0);
+    text("My name is Joy", 0, 50);
     ypos = ypos - 1;
 }
