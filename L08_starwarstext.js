@@ -24,7 +24,7 @@ function draw() {
     let Flames = [
         "Flames have never been a joke.",
         "Young Mei had been cursed with the 'Night Flame' since she was born."
-    ]
+    ];
 
     translate( width/2, ypos)
     fill("orange");
