@@ -6,9 +6,9 @@ function preload() {
 
 function setup() {
     createCanvas(400, 400);
-    background(100);
+    background(150);
 
-    // fill("pink")
+    fill("pink")
     // textSize(32);
     // text("Hello. Bot1806j activated.", 20, 50);
     // text("What do you want to do?", 20, 100)
