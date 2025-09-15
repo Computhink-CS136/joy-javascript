@@ -34,6 +34,7 @@ function draw() {
 
 
     translate( width/2, ypos)
+    
     fill("orange");
     textSize(40);
     textAlign(CENTER, CENTER);
