@@ -25,5 +25,5 @@ function draw() {
     fill("hot pink");
     textSize(32);
     textAlign(CENTER, CENTER);
-    text("Welcome")
+    text("Welcome to ")
 }
