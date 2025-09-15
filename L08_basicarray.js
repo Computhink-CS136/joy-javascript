@@ -32,7 +32,7 @@ function setup() {
 }
 
 function draw(){
-    if ( keyIsDown(UP) ){
+    if ( keyIsDown(UP_ARROW) ){
         soundfx.play()
     }
     if ( keyIsDown(DOWN_ARROW) ){
