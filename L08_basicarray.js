@@ -12,7 +12,7 @@ function setup() {
     rect(width/2, height/2, 200, 200);
     fill("pink")
     textSize(32);
-    textAlign(LEFT, BOTTOM);
+    textAlign(CENTER, BOTTOM);
     text("I am a robot.", width/2, height/2)
     // textSize(32);
     // text("Hello. Bot1806j activated.", 20, 50);
