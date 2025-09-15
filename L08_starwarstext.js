@@ -29,7 +29,7 @@ function draw() {
         "But one day, Mei discovered that there was more than evil behind the flames...",
         "She decided to fight the flames of rebellion,",
         "Would she survive the curse put on her,",
-        ""
+        "Or will she perish"
     ];
 
     text(Flames[0], 0, 0);
