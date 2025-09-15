@@ -3,3 +3,6 @@ function setup() {
     background("pink")
 }
 
+function draw() {
+    
+}
