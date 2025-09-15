@@ -23,7 +23,7 @@ function draw() {
 
     let Flames = [
         "Flames have never been a joke.",
-        "Young Mei had been curse"
+        "Young Mei had been cursed with the '"
     ]
 
     translate( width/2, ypos)
