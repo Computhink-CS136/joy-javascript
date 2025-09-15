@@ -39,7 +39,7 @@ function draw() {
     textAlign(CENTER, CENTER);
     // text("The Curse of the Flames", 0, 0);
 
-for (let i = 0; i < 8;)
+for (let i = 0; i < 8; i++)
     text(Flames[0], 0, 0);
     text(Flames[1], 0, 50);
     text(Flames[2], 0, 100);
