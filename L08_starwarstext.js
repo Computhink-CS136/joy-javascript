@@ -23,7 +23,7 @@ function draw() {
 
     translate( width/2, ypos)
     fill("orange");
-    textSize(32);
+    textSize(60);
     textAlign(CENTER, CENTER);
     text("The Curse of the Flames", 0, 0)
     ypos = ypos - 1;
