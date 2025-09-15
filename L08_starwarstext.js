@@ -21,5 +21,5 @@ function draw() {
         soundfx.stop()
     }
 
-    
+    translate()
 }
