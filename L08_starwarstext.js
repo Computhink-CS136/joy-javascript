@@ -26,7 +26,7 @@ function draw() {
         "Young Mei had been cursed with the 'Night Flame' since she was born."
     ];
 
-    text()
+    text(starwars[0])
 
     translate( width/2, ypos)
     fill("orange");
