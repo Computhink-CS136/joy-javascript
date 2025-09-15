@@ -24,8 +24,8 @@ function draw() {
     let Flames = [
         "Flames have never been a joke.",
         "Young Mei had been cursed with the 'Night Flame' since she was born.",
-        "The Night Flame has stalked her for years."
-
+        "The Night Flame has stalked her for years.",
+        ""
     ];
 
     text(Flames[0], 0, 0);
