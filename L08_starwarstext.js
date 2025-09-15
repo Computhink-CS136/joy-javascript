@@ -25,6 +25,6 @@ function draw() {
     fill("orange");
     textSize(32);
     textAlign(CENTER, CENTER);
-    text("Flames", 0, 0)
+    text("", 0, 0)
     ypos = ypos - 1;
 }
