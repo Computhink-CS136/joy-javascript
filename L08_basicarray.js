@@ -15,7 +15,7 @@ function setup() {
     text("Choose:", 20, 150)
     text("'Read a book'  'Play a game'", 20, 200)
 
-    let ypos 
+    let ypos = 50;
     let favFoods = ["sushi", "udon", "soba", "miso", "chawamushi"]
     for (let index=0; index < favFoods.length; index++){
         console.log( favFoods[index] );
