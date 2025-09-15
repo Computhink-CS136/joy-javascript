@@ -13,11 +13,12 @@ function setup() {
 }
 
 function draw() {
+    
     if ( keyIsDown(UP_ARROW) ){
         soundfx.play()
     }
     if ( keyIsDown(DOWN_ARROW) ){
         soundfx.stop()
     }
-    
+
 }
