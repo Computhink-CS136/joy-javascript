@@ -27,7 +27,8 @@ function draw() {
         "The Night Flame has stalked her for years.",
         "She lived in fear of the Flames.",
         "But one day, Mei discovered that there was more than evil behind the flames...",
-        "She dec"
+        "She decided to fight the flames of rebellion.",
+        
     ];
 
     text(Flames[0], 0, 0);
