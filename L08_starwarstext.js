@@ -21,7 +21,7 @@ function draw() {
         soundfx.stop()
     }
 
-    
+    let Flames
 
     translate( width/2, ypos)
     fill("orange");
