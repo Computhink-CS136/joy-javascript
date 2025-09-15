@@ -41,13 +41,13 @@ function draw() {
 
     text(Flames[0], 0, 0);
     text(Flames[1], 0, 50);
-    text(Flames[1], 0, 100);
-    text(Flames[1], 0, 150);
-    text(Flames[1], 0, 200);
+    text(Flames[2], 0, 100);
+    text(Flames[3], 0, 150);
+    text(Flames[4], 0, 200);
     text(Flames[1], 0, 250);
     text(Flames[1], 0, 300);
     text(Flames[1], 0, 350);
-    
+
     ypos = ypos - 1;
 
     if (ypos < 0){
