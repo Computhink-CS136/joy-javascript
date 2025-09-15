@@ -27,7 +27,7 @@ function draw() {
     ];
 
     text(starwars[0])
-    text()
+    text([1])
 
     translate( width/2, ypos)
     fill("orange");
