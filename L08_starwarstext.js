@@ -21,5 +21,6 @@ function draw() {
         soundfx.stop()
     }
 
-    translate( width/2, xpos)
+    translate( width/2, ypos)
+    fill("")
 }
