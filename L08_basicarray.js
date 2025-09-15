@@ -12,7 +12,7 @@ function setup() {
     textSize(32);
     textAlign(RIGHT, BOTTOM);
 
-    text("")
+    text("Hello. I am a robot.")
     // textSize(32);
     // text("Hello. Bot1806j activated.", 20, 50);
     // text("What do you want to do?", 20, 100)
