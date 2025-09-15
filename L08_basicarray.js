@@ -33,7 +33,7 @@ function setup() {
     //     circle(xpos, 250, 50);
     //     xpos = xpos + 55;
     // }
-}
+
 
 function draw(){
     if ( keyIsDown(UP_ARROW) ){
