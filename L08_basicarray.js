@@ -20,7 +20,7 @@ function setup() {
     for (let index=0; index < favFoods.length; index++){
         console.log( favFoods[index] );
         text(favfoods[index], 20, ypos);
-        
+        ypos = ypos + 50;
     }
 
     // text("I am Chicken Feathery.", 20, 50)
