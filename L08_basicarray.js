@@ -10,7 +10,9 @@ function setup() {
 
     fill("pink")
     textSize(32);
-    textAlign(RIGHT)
+    textAlign(RIGHT, BOTTOM);
+
+    
     // textSize(32);
     // text("Hello. Bot1806j activated.", 20, 50);
     // text("What do you want to do?", 20, 100)
