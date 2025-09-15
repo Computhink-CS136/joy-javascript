@@ -22,8 +22,8 @@ function draw() {
     }
 
     translate( width/2, ypos)
-    fill("hot pink");
+    fill("hot orange");
     textSize(32);
     textAlign(CENTER, CENTER);
-    text("")
+    text("Flames")
 }
