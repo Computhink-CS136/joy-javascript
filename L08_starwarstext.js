@@ -22,7 +22,7 @@ function draw() {
     }
 
     translate( width/2, ypos)
-    fill("fushia");
+    fill("magenta");
     textSize(40);
     textAlign(CENTER, CENTER);
     text("Welcome", 0, 0);
