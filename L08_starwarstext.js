@@ -32,15 +32,7 @@ function draw() {
         "Or will she perish, like the flames?"
     ];
 
-for (let i = 0, i < 8, i ++){}
-    text(Flames[0], 0, 0);
-    text(Flames[1], 0, 50);
-    text(Flames[1], 0, 100);
-    text(Flames[1], 0, 150);
-    text(Flames[1], 0, 200);
-    text(Flames[1], 0, 250);
-    text(Flames[1], 0, 300);
-    text(Flames[1], 0, 350);
+
 
     translate( width/2, ypos)
     fill("orange");
