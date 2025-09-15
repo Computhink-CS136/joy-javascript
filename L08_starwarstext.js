@@ -26,6 +26,8 @@ function draw() {
         "Young Mei had been cursed with the 'Night Flame' since she was born."
     ];
 
+    text()
+
     translate( width/2, ypos)
     fill("orange");
     textSize(40);
