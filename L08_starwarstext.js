@@ -36,8 +36,8 @@ function draw() {
     text(Flames[1], 0, 50);
     text(Flames[1], 0, 100);
     text(Flames[1], 0, 150);
-    text(Flames[1], 0, 50);
-    text(Flames[1], 0, 50);
+    text(Flames[1], 0, 200);
+    text(Flames[1], 0, 250);
     text(Flames[1], 0, 50);
     text(Flames[1], 0, 50);
 
