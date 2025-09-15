@@ -22,7 +22,8 @@ function draw() {
     }
 
     let Flames = [
-        "Flames "
+        "Flames have never been a joke.",
+        ""
     ]
 
     translate( width/2, ypos)
