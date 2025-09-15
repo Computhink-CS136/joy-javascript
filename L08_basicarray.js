@@ -13,6 +13,7 @@ function setup() {
     textAlign(RIGHT, BOTTOM);
 
     fill("purple")
+    rect(width/2)
 
     text("Hello. I am a robot.")
     // textSize(32);
