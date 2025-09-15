@@ -9,7 +9,7 @@ function setup() {
     background(80);
 
     fill("pink")
-    // textSize(32);
+    textSize(32);
     // text("Hello. Bot1806j activated.", 20, 50);
     // text("What do you want to do?", 20, 100)
     // text("Choose:", 20, 150)
