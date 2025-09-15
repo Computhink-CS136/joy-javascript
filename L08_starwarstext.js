@@ -48,4 +48,7 @@ function draw() {
     text("The Curse of the Flames", 0, 0);
 
     ypos = ypos - 1;
+
+    if (ypos < 0)
+        ypos = 
 }
