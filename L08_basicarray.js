@@ -12,6 +12,8 @@ function setup() {
     textSize(32);
     textAlign(RIGHT, BOTTOM);
 
+    fill("purple")
+
     text("Hello. I am a robot.")
     // textSize(32);
     // text("Hello. Bot1806j activated.", 20, 50);
