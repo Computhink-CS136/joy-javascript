@@ -47,6 +47,7 @@ function draw() {
     text(Flames[1], 0, 250);
     text(Flames[1], 0, 300);
     text(Flames[1], 0, 350);
+    
     ypos = ypos - 1;
 
     if (ypos < 0){
