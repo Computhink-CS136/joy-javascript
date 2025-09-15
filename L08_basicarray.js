@@ -5,8 +5,8 @@ function preload() {
 }
 
 function setup() {
-    createCanvas(800, 400);
-    background(80);
+    createCanvas(400, 400);
+    background();
 
     // fill("pink")
     // textSize(32);
