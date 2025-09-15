@@ -34,6 +34,7 @@ function draw() {
 
     text(Flames[0], 0, 0);
     text(Flames[1], 0, 50);
+    text(Fa)
 
     translate( width/2, ypos)
     fill("orange");
