@@ -26,7 +26,7 @@ function draw() {
         "Young Mei had been cursed with the 'Night Flame' since she was born."
     ];
 
-    text([0])
+    text(Flames[0],)
     text(Flames[1])
 
     translate( width/2, ypos)
