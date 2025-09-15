@@ -26,6 +26,6 @@ function draw() {
     textSize(40);
     textAlign(CENTER, CENTER);
     text("Welcome", 0, 0)
-    text
+    text("My name is Joy")
     ypos = ypos - 1;
 }
