@@ -11,11 +11,11 @@ function draw() {
     background("pink");
     let hour24 = hour()
     let nowMinute = minute();
-    let aSecond  = second
+    let aSecond  = second();
     textSize(32)
     textAlign(CENTER, CENTER)
     fill("hotpink");
-    text("Time : " + hour24 + " : " + nowMinute, width/2, height/2)
+    text("Time : " + hour24 + " : " + nowMinute + " : " width/2, height/2)
     }
     // background("pink");
     // fill("gray");
