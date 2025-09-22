@@ -12,7 +12,7 @@ function draw() {
     let nowMinute = minute();
     textSize(32)
     textAlign(CENTER, CENTER)
-    fill
+    fill("C")
     }
     // background("pink");
     // fill("gray");
