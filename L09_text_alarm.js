@@ -2,7 +2,7 @@ let xpos;
 function setup() {
     createCanvas(600, 400)
     background("pink")
-    xpos = 
+    xpos = width/2
 
     textAlign(CENTER, BOTTOM)
     textColor("cyan");
