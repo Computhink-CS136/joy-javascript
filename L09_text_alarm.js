@@ -34,7 +34,7 @@ function draw() {
     textSize(32)
     text("Countdown Timer😆", 300, 170);
     text("5", 300, 230)
-    text("Click me to start the timer🙂")
+    text("Click me to start the timer🙂", 300, 280)
     }
 function mousePressed() {
     sfx.play();
