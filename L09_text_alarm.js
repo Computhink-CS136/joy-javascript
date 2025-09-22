@@ -7,9 +7,9 @@ function setup() {
 }
 
 function draw() {
-    fill("cyan")
+    fill("gray")
     textAlign(CENTER, BOTTOM);
-    
+
     textSize(32);
     text("Bounce!", width/2, height/2);  
 }
