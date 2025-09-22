@@ -1,8 +1,8 @@
 let xpos;
 function setup() {
     createCanvas(600, 400)
-    background("pink")
-    xpos = width/2
+    background("pink");
+    xpos = width/2;
 
 }
 
