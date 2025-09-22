@@ -7,6 +7,7 @@ function setup() {
 }
 
 function draw() {
+    fill("cyan")
     textAlign(CENTER, BOTTOM);
     textColor("cyan");
     textSize(32);
