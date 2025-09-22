@@ -30,7 +30,7 @@ function draw() {
     textAlign(CENTER, CENTER)
     fill("hotpink");
     text("Time : " + hour24 + " : " + nowMinute + " : " + aSecond, width/2, height/4)
-    fill("hotpink")
+    fill("cyan")
     textSize(32)
     text("Countdown Timer😆", 300, 170);
     text("5", 300, 230)
