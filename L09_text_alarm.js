@@ -8,15 +8,15 @@ function setup() {
 }
 
 function draw() {
-    background("pink")
-    fill("gray")
+    background("pink");
+    fill("gray");
     textAlign(CENTER, BOTTOM);
 
     textSize(32);
     text("Bounce!", xpos, height/2);  
     xpos = xpos + velocityX;
     if (xpos > width){
-        velocityX = xpos + velocityX
+        velocityX = xpos + velocityX;
     }
     else if (xpos < 0){
             velocityX = velocityX * -1;
