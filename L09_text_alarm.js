@@ -7,7 +7,7 @@ function setup() {
 }
 
 function draw() {
-        textAlign(CENTER, BOTTOM)
+    textAlign(CENTER, BOTTOM)
     textColor("cyan");
     textSize(32);
     text("Bounce!", width/2, height/2);  
