@@ -8,6 +8,9 @@ function setup() {
     xpos = width/2;
 
 }
+function preload() {
+    
+}
 
 function draw() {
     background("pink");
