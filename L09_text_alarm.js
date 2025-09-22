@@ -15,7 +15,7 @@ function draw() {
     hour24 = nf(hour24, 2);
 
     let nowMinute = minute();
-    
+    nowMinute()
     let aSecond  = second();
     textSize(32)
     textAlign(CENTER, CENTER)
