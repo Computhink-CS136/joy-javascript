@@ -36,7 +36,7 @@ function mousePressed() {
 }
 function keyPressed() {
     if (keyCode === 32) {
-        bgcolor = color
+        bgcolor = color( random(255))
     }
 }
     // background("pink");
