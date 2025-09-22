@@ -10,7 +10,6 @@ function setup() {
 function draw() {
     background("pink");
 
-    
     let hour24 = hour()
     let nowMinute = minute();
     let aSecond  = second();
