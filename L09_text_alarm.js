@@ -9,7 +9,7 @@ function setup() {
 
 }
 function preload() {
-    sfx = loadSound("assets/bike-bell-173588.mp3")
+    sfx = loadSound("assets/bell-notifi.mp3")
 }
 
 function draw() {
