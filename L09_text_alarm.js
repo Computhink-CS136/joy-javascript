@@ -34,6 +34,7 @@ function draw() {
 function mousePressed() {
     sfx.play();
 }
+function keyPressed() {}
     // background("pink");
     // fill("gray");
     // textAlign(CENTER, BOTTOM);
