@@ -5,7 +5,7 @@ let bgcolor = "pink";
 
 function setup() {
     createCanvas(600, 400);
-    background("pink");
+    background(bgcolor);
     xpos = width/2;
 
 }
