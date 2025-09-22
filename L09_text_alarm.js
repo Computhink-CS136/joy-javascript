@@ -9,7 +9,7 @@ function setup() {
 
 }
 function preload() {
-    
+    sfx = loadSound
 }
 
 function draw() {
