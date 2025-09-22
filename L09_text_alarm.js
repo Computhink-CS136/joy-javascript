@@ -5,5 +5,5 @@ function setup() {
 
 function draw() {
     textSize (32);
-    text("Bounce")
+    text("Bounce!", )
 }
