@@ -34,7 +34,9 @@ function draw() {
 function mousePressed() {
     sfx.play();
 }
-function keyPressed() {}
+function keyPressed() {
+    if (keyCode === 32)
+}
     // background("pink");
     // fill("gray");
     // textAlign(CENTER, BOTTOM);
