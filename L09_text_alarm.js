@@ -4,7 +4,7 @@ function setup() {
 }
 
 function draw() {
-    textColor()
+    textColor("cyan")
     textSize(32);
     text("Bounce!", 300, 200)
 }
