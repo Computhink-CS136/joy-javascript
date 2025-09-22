@@ -9,7 +9,7 @@ function setup() {
 
 }
 function preload() {
-    sfx = loadSound("assets/")
+    sfx = loadSound("assets/bike-")
 }
 
 function draw() {
