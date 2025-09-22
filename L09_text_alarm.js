@@ -9,6 +9,7 @@ function setup() {
 
 function draw() {
     let hour24 = hour()
+    let nowMin
     textSize(32)
     }
     // background("pink");
