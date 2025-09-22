@@ -26,7 +26,7 @@ function draw() {
     let aSecond  = second();
     aSecond = nf(aSecond, 2);
 
-    textSize(32)
+    textSize(50)
     textAlign(CENTER, CENTER)
     fill("hotpink");
     text("Time : " + hour24 + " : " + nowMinute + " : " + aSecond, width/2, height/3)
