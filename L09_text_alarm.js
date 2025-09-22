@@ -13,7 +13,7 @@ function draw() {
     textSize(32)
     textAlign(CENTER, CENTER)
     fill("hot pink")
-    text("Time:" + hour24 + ":")
+    text("Time:" + hour24 + ":" + nowMinute)
     }
     // background("pink");
     // fill("gray");
