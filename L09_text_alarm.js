@@ -31,7 +31,7 @@ function draw() {
     text("Time : " + hour24 + " : " + nowMinute + " : " + aSecond, width/2, height/2)
     }
 function mousePressed() {
-    
+    sfx.play();
 }
     // background("pink");
     // fill("gray");
