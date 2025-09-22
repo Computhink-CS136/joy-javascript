@@ -19,6 +19,6 @@ function draw() {
         velocityX = xpos + velocityX
     }
     else if (xpos < 0){
-            
+            velocityX = velocityX * -1;
     }
 }
