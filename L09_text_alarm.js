@@ -12,7 +12,7 @@ function draw() {
 
 
     let hour24 = hour() -12
-    hour24
+    hour24 = nf(hour24)
 
     let nowMinute = minute();
     let aSecond  = second();
