@@ -4,6 +4,6 @@ function setup() {
 }
 
 function draw() {
-    textSize = 32;
+    textSize (32);
 
 }
