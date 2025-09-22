@@ -13,5 +13,5 @@ function draw() {
 
     textSize(32);
     text("Bounce!", xpos, height/2);  
-    xpos = xpos + ;
+    xpos = xpos + velocityX;
 }
