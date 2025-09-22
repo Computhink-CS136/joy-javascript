@@ -8,6 +8,7 @@ function setup() {
 }
 
 function draw() {
+    background("pink")
     fill("gray")
     textAlign(CENTER, BOTTOM);
 
