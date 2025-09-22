@@ -32,6 +32,7 @@ function draw() {
     text("Time : " + hour24 + " : " + nowMinute + " : " + aSecond, width/2, height/4)
     textSize(32)
     text("Countdown Timer😆", 300, 150);
+    
     }
 function mousePressed() {
     sfx.play();
