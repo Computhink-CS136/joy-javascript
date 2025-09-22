@@ -11,7 +11,7 @@ function draw() {
     let hour24 = hour()
     let nowMinute = minute();
     textSize(32)
-    
+    textAlign(CE)
     }
     // background("pink");
     // fill("gray");
