@@ -31,7 +31,7 @@ function draw() {
     fill("hotpink");
     text("Time : " + hour24 + " : " + nowMinute + " : " + aSecond, width/2, height/4)
     // textSize(32)
-    text("Countdown Timer😆", , 130);
+    text("Countdown Timer😆", 200, 130);
     }
 function mousePressed() {
     sfx.play();
