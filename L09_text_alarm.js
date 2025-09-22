@@ -14,7 +14,7 @@ function preload() {
 }
 
 function draw() {
-    background("pink");
+    background(bgcolor);
 
 
     let hour24 = hour() -12
