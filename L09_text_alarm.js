@@ -1,6 +1,7 @@
 let xpos;
 let velocityX = 2;
 let sfx;
+let bg
 
 function setup() {
     createCanvas(600, 400);
