@@ -9,7 +9,7 @@ function setup() {
 
 function draw() {
     let hour24 = hour()
-    
+    textSize(24)
     }
     // background("pink");
     // fill("gray");
