@@ -35,7 +35,9 @@ function mousePressed() {
     sfx.play();
 }
 function keyPressed() {
-    if (keyCode === 32)
+    if (keyCode === 32) {
+        bgcolor = color
+    }
 }
     // background("pink");
     // fill("gray");
