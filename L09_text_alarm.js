@@ -29,7 +29,7 @@ function draw() {
     textSize(32)
     textAlign(CENTER, CENTER)
     fill("hotpink");
-    text("Time : " + hour24 + " : " + nowMinute + " : " + aSecond, width/2, height/2)
+    text("Time : " + hour24 + " : " + nowMinute + " : " + aSecond, width/2, height/3)
     }
 function mousePressed() {
     sfx.play();
