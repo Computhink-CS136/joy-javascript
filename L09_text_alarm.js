@@ -15,8 +15,10 @@ function draw() {
     hour24 = nf(hour24, 2);
 
     let nowMinute = minute();
-    nowMinute = nf()
+    nowMinute = nf(aMinute, 2);
+
     let aSecond  = second();
+    
     textSize(32)
     textAlign(CENTER, CENTER)
     fill("hotpink");
