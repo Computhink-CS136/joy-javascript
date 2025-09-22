@@ -11,6 +11,7 @@ function draw() {
     background("pink");
     let hour24 = hour()
     let nowMinute = minute();
+    let aSecond  = second
     textSize(32)
     textAlign(CENTER, CENTER)
     fill("hotpink");
