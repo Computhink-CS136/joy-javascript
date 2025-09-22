@@ -12,6 +12,8 @@ function draw() {
 
 
     let hour24 = hour() -12
+    hour24
+
     let nowMinute = minute();
     let aSecond  = second();
     textSize(32)
