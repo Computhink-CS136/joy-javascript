@@ -12,9 +12,10 @@ function draw() {
 
 
     let hour24 = hour() -12
-    hour24 = nf(hour24)
+    hour24 = nf(hour24, 2);
 
     let nowMinute = minute();
+    
     let aSecond  = second();
     textSize(32)
     textAlign(CENTER, CENTER)
