@@ -4,12 +4,11 @@ function setup() {
     background("pink")
     xpos = width/2
 
-    textAlign(CENTER, BOTTOM)
-    textColor("cyan");
-    textSize(32);
-    text("Bounce!", width/2, height/2);  
 }
 
 function draw() {
-    
+        textAlign(CENTER, BOTTOM)
+    textColor("cyan");
+    textSize(32);
+    text("Bounce!", width/2, height/2);  
 }
