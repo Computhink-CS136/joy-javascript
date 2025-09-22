@@ -11,6 +11,6 @@ function draw() {
     textAlign(CENTER, BOTTOM);
 
     textSize(32);
-    text("Bounce!", width/2, height/2);  
+    text("Bounce!", xpos, height/2);  
     xpos = xpos + 0.6
 }
