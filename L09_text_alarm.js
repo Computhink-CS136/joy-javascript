@@ -18,7 +18,7 @@ function draw() {
     nowMinute = nf(aMinute, 2);
 
     let aSecond  = second();
-    aSecond = nf
+    aSecond = nf(azs)
     textSize(32)
     textAlign(CENTER, CENTER)
     fill("hotpink");
