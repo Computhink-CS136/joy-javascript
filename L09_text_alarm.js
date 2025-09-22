@@ -30,6 +30,9 @@ function draw() {
     fill("hotpink");
     text("Time : " + hour24 + " : " + nowMinute + " : " + aSecond, width/2, height/2)
     }
+function mousePressed() {
+    
+}
     // background("pink");
     // fill("gray");
     // textAlign(CENTER, BOTTOM);
