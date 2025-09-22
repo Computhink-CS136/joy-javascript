@@ -12,7 +12,7 @@ function draw() {
     let nowMinute = minute();
     textSize(32)
     textAlign(CENTER, CENTER)
-    fill("hot pink")
+    fill("hot pink");
     text("Time:" + hour24 + ":" + nowMinute, width/2, height/2)
     }
     // background("pink");
