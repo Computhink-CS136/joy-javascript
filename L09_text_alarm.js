@@ -30,11 +30,11 @@ function draw() {
     textAlign(CENTER, CENTER)
     fill("hotpink");
     text("Time : " + hour24 + " : " + nowMinute + " : " + aSecond, width/2, height/4)
-    fill("gra")
+    fill("gray")
     textSize(32)
     text("Countdown Timer😆", 300, 170);
     text("5", 300, 230)
-    text()
+    text("Cli")
     }
 function mousePressed() {
     sfx.play();
