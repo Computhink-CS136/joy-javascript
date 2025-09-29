@@ -1,3 +1,5 @@
+let bg
+
 function setup() {
     createCanvas(600, 400)
     background("pink")
