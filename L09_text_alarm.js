@@ -13,6 +13,9 @@ function setup() {
     xpos = width/2;
 
     objectID = setInterval(countdown, 1000);
+
+}
+function countdown() {
     
 }
 function preload() {
