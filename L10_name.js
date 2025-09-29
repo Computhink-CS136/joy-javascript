@@ -5,7 +5,8 @@ function setup() {
     createCanvas(600, 600)
     background("pink")
 
-    colorPicker = createColorPicker()
+    colorPicker = createColorPicker();
+    colorPicker
 }
 
 function draw() {
