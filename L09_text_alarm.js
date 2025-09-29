@@ -5,6 +5,7 @@ let bgcolor = "pink";
 // let interval;
 
 let objectID;
+let counter
 
 function setup() {
     createCanvas(600, 400);
