@@ -32,6 +32,7 @@ function changeColor() {
     if (colorChanged > 5) {
         clearInterval(secondID);
     }
+    bgcolor = color( random(255), random(255), random(255));
 }
 
 // function changeColor() {
