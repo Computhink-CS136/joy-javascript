@@ -54,7 +54,7 @@ function draw() {
     console.log( nf(pi, 1, 3) );
     }
 function mousePressed() {
-    sfx.play();
+    // sfx.play();
 }
 function keyPressed() {
     if (keyCode === 32) {
