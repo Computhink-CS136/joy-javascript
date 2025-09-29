@@ -2,6 +2,7 @@ let xpos;
 let velocityX = 2;
 let sfx;
 let bgcolor = "pink";
+let interval;
 
 function setup() {
     createCanvas(600, 400);
