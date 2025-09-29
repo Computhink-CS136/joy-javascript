@@ -65,11 +65,11 @@ function mousePressed() {
     objectID = setInterval(countdown, 1000);
     }
 }
-function keyPressed() {
-    if (keyCode === 32) {
-        bgcolor = color( random(255), random(255), random(255));
-    }
-}
+// function keyPressed() {
+//     if (keyCode === 32) {
+//         bgcolor = color( random(255), random(255), random(255));
+//     }
+// }
 
     // background("pink");
     // fill("gray");
