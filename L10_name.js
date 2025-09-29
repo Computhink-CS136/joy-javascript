@@ -4,5 +4,5 @@ function setup() {
 }
 
 function draw() {
-    FileList("whit4")
+    FileList("white")
 }
