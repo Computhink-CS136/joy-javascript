@@ -64,7 +64,7 @@ function keyPressed() {
     }
 }
 for(i = 0.5; i < 10; i++){
-    
+    objectID = setInterval(countdown, 1000);
     bgcolor = color( random(255), random(255), random(255));
 }
     // background("pink");
