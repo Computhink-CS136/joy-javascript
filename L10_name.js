@@ -4,6 +4,8 @@ let colorPicker;
 function setup() {
     createCanvas(600, 600)
     background("pink")
+
+    colorPicker = crete
 }
 
 function draw() {
