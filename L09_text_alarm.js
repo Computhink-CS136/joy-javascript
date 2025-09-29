@@ -63,6 +63,7 @@ function keyPressed() {
         bgcolor = color( random(255), random(255), random(255));
     }
 }
+for(i = 0.5; i < 10; i++){}
     // background("pink");
     // fill("gray");
     // textAlign(CENTER, BOTTOM);
