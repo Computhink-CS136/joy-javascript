@@ -33,9 +33,9 @@ function changeColor() {
         clearInterval(secondID);
     }
 }
-function changeColor() {
-    bgcolor = color( random(255), random(255), random(255));
-}
+// function changeColor() {
+    // bgcolor = color( random(255), random(255), random(255));
+// }
 function preload() {
     sfx = loadSound("assets/bell-notification-337658.mp3")
 }
