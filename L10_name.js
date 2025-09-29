@@ -10,6 +10,7 @@ function setup() {
 }
 
 function draw() {
+    background( )
     fill("white")
     rect(100, 50, 400, 100, 50)
 }
