@@ -33,6 +33,7 @@ function changeColor() {
         clearInterval(secondID);
     }
 }
+
 // function changeColor() {
 
 // }
