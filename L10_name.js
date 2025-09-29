@@ -6,7 +6,7 @@ function setup() {
     background("pink")
 
     colorPicker = createColorPicker();
-    colorPicker.posi
+    colorPicker.position()
 }
 
 function draw() {
