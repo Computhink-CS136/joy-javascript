@@ -4,7 +4,7 @@ let sfx;
 let bgcolor = "pink";
 // let interval;
 
-let o
+let objectID;
 
 function setup() {
     createCanvas(600, 400);
