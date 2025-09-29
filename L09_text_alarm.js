@@ -56,8 +56,8 @@ function mousePressed() {
     // sfx.play();
     if (counter === 10) {
     objectID = setInterval(countdown, 1000);
+    }
 }
-]
 function keyPressed() {
     if (keyCode === 32) {
         bgcolor = color( random(255), random(255), random(255));
