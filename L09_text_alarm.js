@@ -26,7 +26,7 @@ function countdown() {
         secondID = setInterval(changeColor, 500);
     }
 }
-let
+let colorChanged = 
 function changeColor() {
     bgcolor = color( random(255), random(255), random(255));
 }
