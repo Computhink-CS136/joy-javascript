@@ -7,6 +7,7 @@ let bgcolor = "pink";
 let objectID;
 let counter = 10;
 
+let secondID;
 
 function setup() {
     createCanvas(600, 400);
