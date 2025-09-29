@@ -23,7 +23,7 @@ function countdown() {
         sfx.play();
         clearInterval( objectID );
 
-        secondID = ste
+        secondID = setInterval()
     }
 }
 function preload() {
