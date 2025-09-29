@@ -16,7 +16,7 @@ function setup() {
 
 }
 function countdown() {
-    
+    counter--;
 }
 function preload() {
     sfx = loadSound("assets/bell-notification-337658.mp3")
