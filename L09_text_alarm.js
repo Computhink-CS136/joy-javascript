@@ -13,6 +13,7 @@ function setup() {
     xpos = width/2;
 
     objectID = setInterval(countdown, 1000);
+    
 }
 function preload() {
     sfx = loadSound("assets/bell-notification-337658.mp3")
