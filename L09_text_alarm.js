@@ -23,7 +23,7 @@ function countdown() {
         sfx.play();
         clearInterval( objectID );
 
-        secondID = setInterval()
+        secondID = setInterval(changeColor, 500);
     }
 }
 function preload() {
