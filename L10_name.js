@@ -5,7 +5,7 @@ function setup() {
     createCanvas(600, 600)
     background("pink")
 
-    colorPicker = crete
+    colorPicker = createColorPicker()
 }
 
 function draw() {
