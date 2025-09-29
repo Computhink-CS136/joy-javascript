@@ -37,7 +37,7 @@ function draw() {
     text("Click me to start the timer🙂", 300, 280)
     // text("Created by Joy", 200, 320)
     pi = 3.142;
-    console.log( nf(pi, 1, ))
+    console.log( nf(pi, 1, 3) );
     }
 function mousePressed() {
     sfx.play();
