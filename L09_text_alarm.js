@@ -12,7 +12,7 @@ function setup() {
     background(bgcolor);
     xpos = width/2;
 
-
+    
 }
 function countdown() {
     counter--;
