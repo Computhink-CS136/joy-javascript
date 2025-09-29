@@ -65,6 +65,7 @@ function keyPressed() {
 }
 for(i = 0.5; i < 10; i++){
     
+    bgcolor = color( random(255), random(255), random(255));
 }
     // background("pink");
     // fill("gray");
