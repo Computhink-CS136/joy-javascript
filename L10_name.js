@@ -1,4 +1,4 @@
-let bgColor = 
+let bgColor = "pink";
 
 function setup() {
     createCanvas(600, 400)
