@@ -30,7 +30,7 @@ let colorChanged = 0;
 function changeColor() {
     colorChanged++;
     if (colorChanged > 5) {
-        clearInterval
+        clearInterval(secondID);
     }
 }
 function changeColor() {
