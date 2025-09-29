@@ -35,7 +35,7 @@ function draw() {
     text("Countdown Timer😆", 300, 170);
     text("5 ", 300, 230)
     text("Click me to start the timer🙂", 300, 280)
-    text("Created by Joy")
+    text("Created by Joy", 200, )
     }
 function mousePressed() {
     sfx.play();
