@@ -12,7 +12,7 @@ function setup() {
     background(bgcolor);
     xpos = width/2;
 
-    
+
 }
 function countdown() {
     counter--;
@@ -54,6 +54,7 @@ function draw() {
     }
 function mousePressed() {
     // sfx.play();
+    objectID = setInterval(countdown, 1000);
 }
 function keyPressed() {
     if (keyCode === 32) {
