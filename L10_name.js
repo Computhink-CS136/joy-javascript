@@ -13,7 +13,7 @@ function setup() {
 
     userInput = createInput(username);
     userInput.position(width/2 - 100, height/2)
-    userInput.input
+    userInput.input(ubdate)
 }
 
 function draw() {
