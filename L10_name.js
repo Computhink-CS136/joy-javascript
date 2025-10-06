@@ -2,7 +2,7 @@ let bgColor = "pink";
 let colorPicker;
 
 function setup() {
-    createCanvas(600, 600)
+    createCanvas(1000, 800)
     background("pink")
 
     colorPicker = createColorPicker();
