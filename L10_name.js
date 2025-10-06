@@ -26,7 +26,7 @@ function draw() {
     fill("cyan");
     textSize(40);
     textAlign(LEFT_CENTER)
-    text(username, 150, 110);
+    text(username, 150, 120);
 
     textAlign(RIGHT_CENTER);
     textSize(20);
