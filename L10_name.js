@@ -38,7 +38,7 @@ function updateAge () {
     age = ageInput.value();
 }
 function updateBirth () {
-    
+    birth = birthInput
 }
 function draw() {
     background( colorPicker.value() );
