@@ -28,7 +28,7 @@ function draw() {
     textAlign(LEFT,CENTER);
     text(username, 150, 120);
 
-    textAlign(RIGHT_CENTER);
+    textAlign(RIGHT,CENTER);
     textSize(20);
     text("Change colour/换颜色：", width/2, height/2 + 70);
     text("Enter name/写你的名字：", width/2, height/2 + 82);
