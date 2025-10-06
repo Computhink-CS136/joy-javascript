@@ -46,7 +46,7 @@ function draw() {
     rect(100, 50, 400, 200, 45)
 
     fill("black");
-    textSize(40);
+    textSize(35);
     textAlign( LEFT,CENTER);
     text(username, 150, 100);
     text(age, 150, 180)
@@ -56,5 +56,5 @@ function draw() {
     text("Change the colour：", width/2, height/2 + 55);
     text("Enter your name：", width/2, height/2 - 110);
     text("Enter your age:", width/2 - 10, height/2 - 55);
-    text("Enter your date of birth:", width/2, height/2);
+    text("Enter date of birth:", width/2, height/2);
 }
