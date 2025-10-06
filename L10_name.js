@@ -7,7 +7,7 @@ let userInput;
 let age = 10;
 let ageInput;
 
-let birth;
+let birth = 18
 let birthInput;
 
 function setup() {
