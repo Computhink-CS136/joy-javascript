@@ -43,7 +43,7 @@ function updateBirth () {
 function draw() {
     background( colorPicker.value() );
     fill("white")
-    stroke()
+    stroke("hotpink")
     rect(100, 50, 400, 200, 45)
 
     fill("black");
