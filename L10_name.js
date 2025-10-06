@@ -18,7 +18,7 @@ function setup() {
     userInput.position(width/2, height/2 - 110)
     userInput.input(updateName);
 
-    ageInput = createInput(age);
+    ageInput = createInput(age, "date");
     ageInput.position(width/2, height/2 - 50);
     ageInput.input(updateAge);
 }
