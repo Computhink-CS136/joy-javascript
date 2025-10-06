@@ -53,7 +53,7 @@ function draw() {
 
     textAlign(RIGHT,CENTER);
     textSize(20);
-    text("Change the colour：", width/2, height/2);
+    text("Change the colour：", width/2, height/2 + 55);
     text("Enter your name：", width/2, height/2 - 110);
     text("Enter your age:", width/2 - 10, height/2 - 55);
 }
