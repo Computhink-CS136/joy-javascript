@@ -28,6 +28,6 @@ function draw() {
     textAlign(LEFT_CENTER)
     text(username, 150, 110);
 
-    textAlign(RIGHT_CENTER)
+    textAlign(RIGHT_CENTER);
     
 }
