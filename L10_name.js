@@ -45,6 +45,7 @@ function draw() {
     fill("white")
     rect(100, 50, 400, 200, 45)
 
+    s
     fill("black");
     textSize(40);
     textAlign( LEFT,CENTER);
