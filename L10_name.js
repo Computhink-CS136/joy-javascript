@@ -12,7 +12,7 @@ function setup() {
     colorPicker.position(width/2, height/2);
 
     userInput = createInput(username);
-    userInput.position(width/2 - 100, height/2)
+    userInput.position(width/2, height/2 - 100)
     userInput.input(updateName);
 }
 function updateName () {
