@@ -16,7 +16,7 @@ function setup() {
     userInput.input(updateName);
 }
 function updateName () {
-    username = userInput.value
+    username = userInput.value();
 }
 function draw() {
     background( colorPicker.value() );
