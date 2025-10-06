@@ -20,7 +20,7 @@ function draw() {
     fill("white")
     rect(100, 50, 400, 100, 35)
 
-    fill("black")
-    textSize(40)
+    fill("black");
+    textSize(40);
     text(username, 150, 100);
 }
