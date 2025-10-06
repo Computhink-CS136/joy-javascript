@@ -20,11 +20,12 @@ function setup() {
 
     ageInput = createInput(age);
     ageInput.position(width/2, height/2 - 50);
-    ageInput.input(updateName);
+    ageInput.input(updateAge);
 }
 function updateName () {
     username = userInput.value();
 }
+function ageInput ()
 function draw() {
     background( colorPicker.value() );
     fill("white")
