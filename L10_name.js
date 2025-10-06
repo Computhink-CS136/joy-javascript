@@ -21,7 +21,7 @@ function updateName () {
 function draw() {
     background( colorPicker.value() );
     fill("white")
-    rect(100, 50, 400, 100, 35)
+    rect(100, 50, 400, 200, 45)
 
     fill("black");
     textSize(40);
