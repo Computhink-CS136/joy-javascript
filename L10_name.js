@@ -29,5 +29,6 @@ function draw() {
     text(username, 150, 110);
 
     textAlign(RIGHT_CENTER);
-    textSize(20)
+    textSize(20);
+    text("")
 }
