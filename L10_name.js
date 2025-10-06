@@ -30,5 +30,6 @@ function draw() {
 
     textAlign(RIGHT_CENTER);
     textSize(20);
-    text("Change colour/huan")
+    text("Change colour/换颜色：")
+    
 }
