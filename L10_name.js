@@ -43,9 +43,9 @@ function updateBirth () {
 function draw() {
     background( colorPicker.value() );
     fill("white")
+    stroke()
     rect(100, 50, 400, 200, 45)
 
-    s
     fill("black");
     textSize(40);
     textAlign( LEFT,CENTER);
