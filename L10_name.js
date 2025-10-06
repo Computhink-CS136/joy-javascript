@@ -37,7 +37,7 @@ function draw() {
     textSize(40);
     textAlign( LEFT,CENTER);
     text(username, 150, 100);
-    text(age, 150, 200)
+    text(age, 150, 150)
 
     textAlign(RIGHT,CENTER);
     textSize(20);
