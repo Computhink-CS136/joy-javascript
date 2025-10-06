@@ -25,6 +25,6 @@ function draw() {
 
     fill("black");
     textSize(40);
-    textAlign
+    textAlign(LEFT_)
     text(username, 150, 110);
 }
