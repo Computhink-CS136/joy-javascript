@@ -27,7 +27,7 @@ function setup() {
     ageInput.position(width/2, height/2 - 50);
     ageInput.input(updateAge);
 
-    birthInput = createInput("date");
+    birthInput = createInput(birth, "date");
     birthInput.position(width/2, height/2 - 50);
     birthInput.input(updateBirth);
 }
