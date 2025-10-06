@@ -4,10 +4,11 @@ let colorPicker;
 let username = "Joy";
 let userInput;
 
-let age = 10;
+let age;
+// let age = 10;
 let ageInput;
 
-let birth = 18
+let birth;
 let birthInput;
 
 function setup() {
