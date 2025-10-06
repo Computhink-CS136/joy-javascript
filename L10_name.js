@@ -30,5 +30,5 @@ function draw() {
 
     textAlign(RIGHT_CENTER);
     textSize(20);
-    text("")
+    text("Change colo")
 }
