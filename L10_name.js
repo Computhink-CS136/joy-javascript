@@ -4,6 +4,8 @@ let colorPicker;
 let username = "Joy";
 let userInput;
 
+let age = 10;
+
 function setup() {
     createCanvas(600, 800)
     background(bgColor);
