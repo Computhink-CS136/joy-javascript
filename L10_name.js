@@ -7,6 +7,9 @@ let userInput;
 let age = 10;
 let ageInput;
 
+let birth;
+let birthInput;
+
 function setup() {
     createCanvas(600, 800)
     background(bgColor);
