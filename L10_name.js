@@ -1,7 +1,7 @@
 let bgColor = "pink";
 let colorPicker;
 
-let username = "kobiLi"
+let username = "Kobi"
 
 
 function setup() {
