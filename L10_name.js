@@ -29,7 +29,7 @@ function setup() {
 
     birthInput = createInput("date");
     birthInput.position(width/2, height/2 - 50);
-    // birthInput.input(updateBirth);
+    birthInput.input(updateBirth);
 }
 function updateName () {
     username = userInput.value();
@@ -37,9 +37,9 @@ function updateName () {
 function updateAge () {
     age = ageInput.value();
 }
-// function updateBirth () {
-    // birth = birthInput.value();
-// }
+function updateBirth () {
+    birth = birthInput.value();
+}
 function draw() {
     background( colorPicker.value() );
     fill("white")
