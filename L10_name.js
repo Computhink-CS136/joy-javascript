@@ -56,5 +56,5 @@ function draw() {
     text("Change the colour：", width/2, height/2 + 55);
     text("Enter your name：", width/2, height/2 - 110);
     text("Enter your age:", width/2 - 10, height/2 - 55);
-    text("Enter your date of birth:", width/2, height/2 + 10);
+    text("Enter your date of birth:", width/2, height/2 + 3);
 }
