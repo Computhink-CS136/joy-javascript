@@ -9,7 +9,7 @@ function setup() {
     background(bgColor);
 
     colorPicker = createColorPicker(bgColor);
-    colorPicker.position(width/2-35, height/2+250);
+    colorPicker.position(width/2, height/2);
 
     userInput = createInput(username);
     userInput.position(width/2 - 100, height/2)
