@@ -19,7 +19,7 @@ function setup() {
     userInput.input(updateName);
 
     ageInput = createInput(age);
-    ageInput.position(width/2, height/2 - 50)
+    ageInput.position(width/2, height/2 - 50);
     ageInput.input(updateName);
 }
 function updateName () {
