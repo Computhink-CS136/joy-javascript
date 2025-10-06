@@ -24,7 +24,7 @@ function setup() {
 
     birthInput = createInput("date");
     birthInput.position(width/2, height/2 - 50);
-    birthInput.input(updateAge);
+    birthInput.input(updateBirth);
 }
 function updateName () {
     username = userInput.value();
