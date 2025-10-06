@@ -23,7 +23,7 @@ function draw() {
     fill("white")
     rect(100, 50, 400, 100, 35)
 
-    fill("balck");
+    fill("black");
     textSize(40);
     textAlign(LEFT_CENTER)
     text(username, 150, 120);
