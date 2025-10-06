@@ -1,7 +1,8 @@
 let bgColor = "pink";
 let colorPicker;
 
-let username = "Joy";
+let username;
+// let username = "Joy";
 let userInput;
 
 let age;
