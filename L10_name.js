@@ -1,12 +1,12 @@
 let bgColor = "pink";
 let colorPicker;
 
-let username;
-// let username = "Joy";
+// let username;
+let username = "Joy";
 let userInput;
 
-let age;
-// let age = 10;
+// let age;
+let age = 10;
 let ageInput;
 
 let birth;
