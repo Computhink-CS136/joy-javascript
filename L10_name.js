@@ -20,5 +20,6 @@ function draw() {
     fill("white")
     rect(100, 50, 400, 100, 35)
 
-    fill()
+    fill("black")
+    text
 }
