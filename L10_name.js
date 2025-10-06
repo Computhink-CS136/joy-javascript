@@ -5,7 +5,7 @@ let username = "Joy";
 let userInput;
 
 function setup() {
-    createCanvas(600, 600)
+    createCanvas(600, 800)
     background(bgColor);
 
     colorPicker = createColorPicker(bgColor);
