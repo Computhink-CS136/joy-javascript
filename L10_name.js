@@ -30,6 +30,6 @@ function draw() {
 
     textAlign(RIGHT,CENTER);
     textSize(20);
-    text("Change colour/换颜色：", width/2, height/2 + 70);
-    text("Enter name/写名字：", width/2, height/2 + 82);
+    text("Change the colour/换颜色：", width/2, height/2 + 70);
+    text("Enter your name/写名字：", width/2, height/2 + 82);
 }
