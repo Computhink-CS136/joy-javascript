@@ -5,6 +5,7 @@ let username = "Joy";
 let userInput;
 
 let age = 10;
+let ageInput;
 
 function setup() {
     createCanvas(600, 800)
