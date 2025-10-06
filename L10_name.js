@@ -26,7 +26,7 @@ function updateName () {
     username = userInput.value();
 }
 function updateAge () {
-    age = ageInput
+    age = ageInput.value();
 }
 function draw() {
     background( colorPicker.value() );
