@@ -24,11 +24,11 @@ function setup() {
     userInput.input(updateName);
 
     ageInput = createInput(age);
-    ageInput.position(width/2, height/2 + 5);
+    ageInput.position(width/2, height/2 - 50);
     ageInput.input(updateAge);
 
     birthInput = createInput(birth, "date"); //date, time, text, number, password
-    birthInput.position(width/2, height/2 - 50);
+    birthInput.position(width/2, height/2 + 5);
     birthInput.input(updateBirth);
 }
 function updateName () {
