@@ -21,5 +21,5 @@ function draw() {
     rect(100, 50, 400, 100, 35)
 
     fill("black")
-    text
+    Text(username, 150, 100);
 }
