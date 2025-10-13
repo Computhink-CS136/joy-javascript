@@ -25,7 +25,8 @@ function setup() {
 
 
 function changeText() {
-    story++;
+    // story++;
+    story = 
 }
 
 function draw() {
