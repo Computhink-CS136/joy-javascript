@@ -6,7 +6,7 @@ function setup() {
     background("pink")
 
     button1 = createButton("Click on me😀")
-    button1.position(250, 200)
+    button1.position(250, 100)
     button1.size(110, 50)
 
 
