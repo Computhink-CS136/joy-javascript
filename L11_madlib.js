@@ -2,6 +2,7 @@ let button1;
 let story;
 // let username;
 let sometextInput;
+let text;
 
 
 function setup() {
