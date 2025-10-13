@@ -34,7 +34,7 @@ function setup() {
     sometextInput.position(width/2, height/2 - 60);
 }
 
-text(0)
+text("")
 function changeText() {
     // story++;
     story = sometextInput.value();
