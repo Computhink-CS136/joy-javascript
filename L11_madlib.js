@@ -9,7 +9,7 @@ function setup() {
     background("pink")
 
     button1 = createButton("Click on me😀")
-    button1.position(250, 350)
+    button1.position(250, 300)
     button1.size(150, 30)
     button1.mousePressed(changeText);
     // story = 0;
@@ -37,7 +37,7 @@ function setup() {
 function changeText() {
     // story++;
     story = sometextInput.value();
-    
+
 }
 
 function draw() {
