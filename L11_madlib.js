@@ -11,6 +11,9 @@ function setup() {
     // button1.mousePressed(changeText);
     // story = 0;
 
+    userInput = createInput(username);
+    userInput.position(width/2, height/2 - 110)
+    userInput.input(updateName);
 }
 
 // function changeText() {
@@ -29,5 +32,5 @@ function draw() {
     textAlign(CENTER, CENTER)
     text(story, 300, 185)
 
-    
+
 }
