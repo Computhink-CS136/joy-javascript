@@ -4,7 +4,7 @@ function setup() {
     background("pink")
 
     button1 = createButton("Click on me😀")
-    button1.position(300, 150)
+    button1.position(250, 200)
 }
 
 function draw() {
