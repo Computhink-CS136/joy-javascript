@@ -1,5 +1,6 @@
 let button1;
 let story;
+let username;
 
 function setup() {
     createCanvas(600, 600)
