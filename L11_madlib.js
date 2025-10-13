@@ -1,6 +1,6 @@
 let button1;
 let story;
-let username;
+// let username;
 
 function setup() {
     createCanvas(600, 600)
@@ -12,9 +12,9 @@ function setup() {
     button1.mousePressed(changeText);
     story = 0;
 
-    userInput = createInput(username);
-    userInput.position(width/2 - 150, height/2 - 105)
-    userInput.input(updateName);
+    // userInput = createInput(username);
+    // userInput.position(width/2 - 150, height/2 - 105)
+    // userInput.input(updateName);
 
     function updateName () {
     username = userInput.value();
