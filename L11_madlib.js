@@ -13,7 +13,7 @@ function setup() {
 }
 
 function changeText() {
-
+    story++;
 }
 
 function draw() {
