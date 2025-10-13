@@ -37,6 +37,10 @@ function setup() {
 function changeText() {
     // story++;
     story = sometextInput.value();
+    story = sometextInput.value();
+    story = sometextInput.value();
+    story = sometextInput.value();
+    story = sometextInput.value();
 }
 
 function draw() {
