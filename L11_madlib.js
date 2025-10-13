@@ -13,9 +13,9 @@ function setup() {
 
 }
 
-function changeText() {
-    story++;
-}
+// function changeText() {
+//     story++;
+// }
 
 function draw() {
     fill("white")
@@ -24,7 +24,7 @@ function draw() {
 
     fill("skyblue")
 
-    // story = "AquaBot";
+    story = "AquaBot";
     textSize(30)
     textAlign(CENTER, CENTER)
     text(story, 300, 185)
