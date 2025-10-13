@@ -1,6 +1,7 @@
 let button1;
 let story;
 // let username;
+let sometextInpu
 
 function setup() {
     createCanvas(600, 600)
