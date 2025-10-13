@@ -6,7 +6,7 @@ function setup() {
     button1 = createButton("Click on me😀")
     button1.position(250, 200)
     button1.size(110, 50)
-    rect(250, 200)
+    rect(250, 300, 100, 100,)
 }
 
 function draw() {
