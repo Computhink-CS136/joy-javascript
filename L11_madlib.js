@@ -19,7 +19,7 @@ function setup() {
     // function updateName () {
     // username = userInput.value();
 
-    sometextInput = createInput("")
+    sometextInput = createInput("e.g. a cat")
 }
 
 
