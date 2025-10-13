@@ -2,7 +2,7 @@ let button1;
 let story;
 
 function setup() {
-    createCanvas(600, 400)
+    createCanvas(600, 600)
     background("pink")
 
     button1 = createButton("Click on me😀")
