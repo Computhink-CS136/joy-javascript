@@ -13,7 +13,7 @@ function setup() {
     story = 0;
 
     userInput = createInput(username);
-    userInput.position(width/2, height/2 - 110)
+    userInput.position(width/2 - 110, height/2 - 110)
     userInput.input(updateName);
 
     function updateName () {
