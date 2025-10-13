@@ -11,7 +11,7 @@ function setup() {
     button1.position(350, 190)
     button1.size(150, 30)
     button1.mousePressed(changeText);
-    story = 0;
+    // story = 0;
 
     // userInput = createInput(username);
     // userInput.position(width/2 - 150, height/2 - 105)
