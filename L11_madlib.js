@@ -20,7 +20,7 @@ function setup() {
     // username = userInput.value();
 
     sometextInput = createInput("e.g. a cat");
-    sometextInput.position(50, 50);
+    sometextInput.position(, 50);
 }
 
 
