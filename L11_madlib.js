@@ -12,6 +12,10 @@ function setup() {
 
 }
 
+function changeText() {
+
+}
+
 function draw() {
     fill("white")
     noStroke()
