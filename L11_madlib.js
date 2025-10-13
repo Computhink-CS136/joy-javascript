@@ -3,7 +3,7 @@ function setup() {
     createCanvas(600, 400)
     background("pink")
 
-    button1
+    button1 = createButton("")
 }
 
 function draw() {
