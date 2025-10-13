@@ -26,9 +26,9 @@ function changeText() {
 }
 
 function draw() {
-    // fill("white")
-    // noStroke()
-    // rect(100, 150, 430, 80, 30)
+    fill("white")
+    noStroke()
+    rect(100, 150, 430, 80, 30)
 
     // fill("skyblue")
 
