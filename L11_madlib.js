@@ -22,7 +22,7 @@ function setup() {
     // username = userInput.value();
 
     sometextInput = createInput("e.g. a cat");
-    sometextInput.position(width/2 - 100, height/2 - 260);
+    sometextInput.position(width/2, height/2 - 260);
     sometextInput = createInput("e.g. play");
     sometextInput.position(width/2, height/2 - 210);
 }
