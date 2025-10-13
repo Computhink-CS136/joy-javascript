@@ -8,9 +8,9 @@ function setup() {
     button1 = createButton("Click on me😀")
     button1.position(250, 100)
     button1.size(110, 50)
-    
+    button1.mousePressed
     story = 0;
-    
+
 }
 
 function changeText() {
