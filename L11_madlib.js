@@ -3,6 +3,7 @@ let story;
 // let username;
 let sometextInput;
 
+
 function setup() {
     createCanvas(600, 600)
     background("pink")
