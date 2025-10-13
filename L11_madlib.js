@@ -17,5 +17,5 @@ function draw() {
     noStroke()
     rect(100, 250, 430, 80, 30)
 
-    
+    fill("")
 }
