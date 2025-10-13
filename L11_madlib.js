@@ -29,7 +29,7 @@ function setup() {
     sometextInput.position(width/2, height/2 - 160);
     sometextInput = createInput("e.g. happily");
     sometextInput.position(width/2, height/2 - 110);
-    sometextInput = createInput("e.g. ");
+    sometextInput = createInput("e.g. house");
     sometextInput.position(width/2, height/2 - 60);
 }
 
