@@ -18,5 +18,8 @@ function draw() {
     rect(100, 250, 430, 80, 30)
 
     fill("skyblue")
-    text()
+    story = "AquaBot";
+    textSize(48
+    textAlign(CENTER, CENTER)
+    
 }
