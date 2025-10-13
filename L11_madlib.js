@@ -28,14 +28,12 @@ function changeText() {
 function draw() {
     fill("white")
     noStroke()
-    rect(100, 150, 430, 80, 30)
+    // rect(100, 150, 430, 80, 30)
 
     fill("skyblue")
 
     // story = "AquaBot";
-    textSize(30)
-    textAlign(CENTER, CENTER)
-    text(story, 300, 185)
+    /
 
 
 }
