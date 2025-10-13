@@ -43,7 +43,7 @@ function changeText() {
 function draw() {
     fill("white")
     noStroke()
-    rect(100, 400, 430, 150, 30)
+    rect(100, 400, 430, 150, 50)
 
     fill("skyblue")
 
