@@ -16,10 +16,12 @@ function setup() {
     // userInput.position(width/2 - 150, height/2 - 105)
     // userInput.input(updateName);
 
-    function updateName () {
-    username = userInput.value();
+    // function updateName () {
+    // username = userInput.value();
+
+    someTe
 }
-}
+
 
 function changeText() {
     story++;
