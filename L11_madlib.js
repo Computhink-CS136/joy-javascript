@@ -22,5 +22,5 @@ function draw() {
     story = "AquaBot";
     textSize(30)
     textAlign(CENTER, CENTER)
-    text(story, 300, 190)
+    text(story, 300, 150)
 }
