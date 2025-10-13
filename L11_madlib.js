@@ -37,8 +37,8 @@ function setup() {
 text("Enter noun:", width/2, height/2 - 260);
 text("Enter verb:", width/2, height/2 - 260);
 text("Enter adjective:", width/2, height/2 - 260);
-text("Enter noun:", width/2, height/2 - 260);
-text("Enter noun:", width/2, height/2 - 260);
+text("Enter adverb:", width/2, height/2 - 260);
+text("Enter place:", width/2, height/2 - 260);
 
 function changeText() {
     // story++;
