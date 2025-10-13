@@ -12,5 +12,5 @@ function setup() {
 
 function draw() {
     fill("gray")
-    rect(100, 250, 500, 80, 30)
+    rect(100, 250, 430, 80, 30)
 }
