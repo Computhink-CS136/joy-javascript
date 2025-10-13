@@ -15,12 +15,12 @@ function setup() {
 function draw() {
     fill("white")
     noStroke()
-    rect(100, 250, 430, 80, 30)
+    rect(100, 250, 430, 0, 30)
 
     fill("skyblue")
 
     story = "AquaBot";
     textSize(30)
     textAlign(CENTER, CENTER)
-    text(story, 300, 290)
+    text(story, 300, 190)
 }
