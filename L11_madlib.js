@@ -35,6 +35,11 @@ function setup() {
 }
 
 text("Enter noun:", width/2, height/2 - 260);
+text("Enter noun:", width/2, height/2 - 260);
+text("Enter noun:", width/2, height/2 - 260);
+text("Enter noun:", width/2, height/2 - 260);
+text("Enter noun:", width/2, height/2 - 260);
+
 function changeText() {
     // story++;
     story = sometextInput.value();
