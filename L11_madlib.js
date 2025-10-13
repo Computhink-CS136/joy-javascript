@@ -30,7 +30,7 @@ function setup() {
     sometextInput = createInput("e.g. a cat");
     sometextInput.position(width/2, height/2 - 110);
     sometextInput = createInput("e.g. a cat");
-    sometextInput.position(width/2, height/2 - 0);
+    sometextInput.position(width/2, height/2 - 60);
 }
 
 
