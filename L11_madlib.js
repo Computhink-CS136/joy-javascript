@@ -7,7 +7,7 @@ function setup() {
     button1.position(250, 200)
     button1.size(110, 50)
     rect(250, 250, 300, 80, 30)
-    rect(CENTER, CENTER)
+    
 }
 
 function draw() {
