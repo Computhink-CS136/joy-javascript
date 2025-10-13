@@ -34,7 +34,7 @@ function setup() {
     sometextInput.position(width/2, height/2 - 60);
 }
 
-text("Enter noun:", )
+text("Enter noun:", width/2, )
 function changeText() {
     // story++;
     story = sometextInput.value();
