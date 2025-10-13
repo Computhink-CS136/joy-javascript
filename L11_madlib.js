@@ -15,7 +15,7 @@ function setup() {
 function draw() {
     fill("white")
     noStroke()
-    rect(100, 250, 430, 190, 30)
+    rect(100, 250, 430, 50, 30)
 
     fill("skyblue")
 
