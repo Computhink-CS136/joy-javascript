@@ -4,7 +4,7 @@ function setup() {
     createCanvas(1510, 685);
     background("pink");
     textInput = createInput();
-    textInput
+    textInput.position()
 }
 
 function draw() {
