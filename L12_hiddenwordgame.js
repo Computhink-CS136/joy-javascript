@@ -1,7 +1,7 @@
 let hiddenwords = ["index", "video", "mouse", "white", "night"];
 
 function setup() {
-    createCanvas(600, 600);
+    createCanvas(1510, 685);
     background("pink");
 }
 
