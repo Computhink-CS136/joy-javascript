@@ -16,7 +16,7 @@ function setup() {
 }
 
 function checkAnswer() {
-    message = ""
+    message = "Guessed right! The hi"
 }
 
 function draw() {
