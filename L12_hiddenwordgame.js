@@ -43,7 +43,7 @@ function draw() {
     text("Guess the hidden 5-letter word!", width/2, 100);
     text("Attempts : 0", width/2, 150);
     text("Hints: I _ _ E _", width/2, 200)
-    text("Subscribe to 'joy_penguin@codewhiz'!")
+    text("Subscribe to 'joy_penguin@codewhiz'!", w)
 }
     // button = createButton("Guess🤔")
     // button.position(width/2, height/2)
