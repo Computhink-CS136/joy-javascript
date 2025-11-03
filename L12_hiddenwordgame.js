@@ -1,4 +1,4 @@
-let hiddenwords = [""];
+let hiddenwords = ["index", ""];
 
 function setup() {
     createCanvas(600, 600);
