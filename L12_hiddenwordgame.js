@@ -4,7 +4,7 @@ function setup() {
     createCanvas(1510, 685);
     background("pink");
     textInput = createInput();
-    textInput.position(width/2 - 200, height/2);
+    textInput.position(width/2 - 200, height/2 + 10);
     guessButton = createButton();
     guessButton.position(width/2, height/2);
 }
