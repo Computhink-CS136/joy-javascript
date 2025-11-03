@@ -13,6 +13,7 @@ function setup() {
     guessButton.style("font-size", "20px")
     guessButton.style("background-color", "cyan")
     guessButton.mousePressed(checkAnswer);
+    button1
 }
 
 function checkAnswer() {
