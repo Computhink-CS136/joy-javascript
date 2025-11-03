@@ -15,7 +15,9 @@ function setup() {
     guessButton.mousePressed(checkAnswer);
 }
 
-
+function checkAnswer(){
+    
+}
 
 function draw() {
     createCanvas(1510, 685);
