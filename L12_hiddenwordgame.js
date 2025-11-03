@@ -12,6 +12,7 @@ function setup() {
     guessButton.position(width/2 + 100, height/2);
     guessButton.style("font-size", "20px")
     guessButton.style("background-color", "cyan")
+    guess
 }
 
 function draw() {
@@ -19,7 +20,7 @@ function draw() {
     background("pink");
     textAlign(CENTER, CENTER)
     textSize(30);
-    
+
     text("Guess the hidden 5-letter word!", width/2, 100);
     text("Attempts : 0", width/2, 150);
     text("Hints: I _ _ E _", width/2, 200)
