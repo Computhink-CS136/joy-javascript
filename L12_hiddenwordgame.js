@@ -16,7 +16,7 @@ function draw() {
     textSize(30);
     text("Guess the hidden 5-letter word!🤔", width/2, 100);
     text("Attempts:0", width/2, 200);
-    text("Hints: I_")
+    text("Hints: I _ _ ")
 }
     // button = createButton("Guess🤔")
     // button.position(width/2, height/2)
