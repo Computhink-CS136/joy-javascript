@@ -30,7 +30,7 @@ function setup() {
     generateHints();
 }
 function generateHints() {
-
+    
 }
 
 function checkAnswer() {
