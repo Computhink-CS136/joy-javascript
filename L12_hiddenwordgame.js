@@ -14,9 +14,9 @@ function draw() {
     background("pink");
 
     button1 = createButton("Guess🤔")
-    button1.position(width/2, height/2)
-    button1.size(150, 30)
-    button1.mousePressed(changeText);
+    button.position(width/2, height/2)
+    button.size(150, 30)
+    button.mousePressed(changeText);
 
     sometextInput = createInput("e.g. a cat");
     sometextInput.position(width/2, height/2 - 260);
