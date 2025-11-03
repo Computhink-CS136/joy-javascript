@@ -3,7 +3,7 @@ let hiddenwords = ["index", "video", "mouse", "white", "night"];
 function setup() {
     createCanvas(1510, 685);
     background("pink");
-    element.style("border", "1px teal")
+    background.style("border", "1px teal")
     textInput = createInput();
     textInput.position(width/2 - 200, height/2 + 5);
     textInput.style("font-size", "20px")
