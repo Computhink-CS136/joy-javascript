@@ -5,6 +5,7 @@ function setup() {
     background("pink");
     textInput = createInput();
     textInput.position(width/2 - 200, height/2 + 5);
+    textInput.
     guessButton = createButton("Guess");
     guessButton.position(width/2 + 100, height/2);
 }
