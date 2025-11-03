@@ -25,7 +25,7 @@ function setup() {
     button1.style("font-size", "20px")
     button1.style("background-color", "red")
 
-    selected = random
+    selected = random(hiddenwords);
 }
 
 function checkAnswer() {
