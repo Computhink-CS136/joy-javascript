@@ -14,7 +14,7 @@ function draw() {
     background("pink");
     textAlign(CENTER, CENTER)
     textSize(30);
-    text("")
+    text("Guess the hidden ")
 }
     // button = createButton("Guess🤔")
     // button.position(width/2, height/2)
