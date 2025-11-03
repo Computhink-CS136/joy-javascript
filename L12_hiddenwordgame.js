@@ -12,7 +12,7 @@ function setup() {
     guessButton.position(width/2 + 100, height/2);
     guessButton.style("font-size", "20px")
     guessButton.style("background-color", "cyan")
-    guess
+    guessButton.mousepre
 }
 
 function draw() {
