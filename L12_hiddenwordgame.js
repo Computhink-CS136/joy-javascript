@@ -6,7 +6,7 @@ function setup() {
 }
 
 function draw() {
-    createCanvas(1500, 900);
+    createCanvas(1500, 70);
     background("pink");
 
     button1 = createButton("Click on me😀")
