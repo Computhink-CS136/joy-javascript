@@ -4,7 +4,8 @@ function setup() {
     createCanvas(1510, 685);
     background("pink");
     textInput = createInput();
-    textInput.position()
+    textInput.position(width/2, height/2);
+    guess
 }
 
 function draw() {
