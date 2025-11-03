@@ -30,7 +30,7 @@ function setup() {
     generateHints();
 }
 function generateHints() {
-    hints = selected[0] + " " + "_ ".reapeat(selected.length)
+    hints = selected[0] + " " + "_ ".repeat(selected.length-1);
 }
 
 function checkAnswer() {
