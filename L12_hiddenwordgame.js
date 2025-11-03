@@ -15,8 +15,8 @@ function setup() {
     guessButton.mousePressed(checkAnswer);
 }
 
-function checkAnswer(){
-    
+function checkAnswer() {
+    message = 
 }
 
 function draw() {
