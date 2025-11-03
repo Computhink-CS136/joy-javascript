@@ -27,7 +27,10 @@ function setup() {
     button1.style("background-color", "red")
 
     selected = random(hiddenwords);
-    generateHint();
+    generateHints();
+}
+function generateHints() {
+
 }
 
 function checkAnswer() {
