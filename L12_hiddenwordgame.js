@@ -1,7 +1,7 @@
 let hiddenwords = ["index", "video", "mouse", "white", "night"];
 
-let textInput
-let guessButton
+let textInput;
+let guessButton;
 
 let message;
 let selected;
