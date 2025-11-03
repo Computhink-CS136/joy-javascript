@@ -1,7 +1,7 @@
-let 
+let hiddenwords
 
 function setup() {
-    createCanvas(600, 400)
+    createCanvas(600, 600);
     background("pink")
 }
 
