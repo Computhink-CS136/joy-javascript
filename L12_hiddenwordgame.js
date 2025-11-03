@@ -8,8 +8,7 @@ function setup() {
 function draw() {
     createCanvas(1510, 685);
     background("pink");
-
-
+    
     button1 = createButton("Click on me😀")
     button1.position(width/2, height/2)
     button1.size(150, 30)
