@@ -5,6 +5,7 @@ let guessButton;
 
 let message;
 let selected;
+let hints;
 
 function setup() {
     createCanvas(1510, 685);
