@@ -12,7 +12,7 @@ function setup() {
 function draw() {
     createCanvas(1510, 685);
     background("pink");
-    textAlign(CustomElementRegistry, CENTER)
+    textAlign(CENTER, CENTER)
 
 
 }
