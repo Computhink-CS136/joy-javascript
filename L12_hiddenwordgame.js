@@ -13,11 +13,11 @@ function setup() {
     guessButton.style("font-size", "20px")
     guessButton.style("background-color", "cyan")
     guessButton.mousePressed(checkAnswer);
-    
+
     guessButton = createButton("SUBSCRIBE!");
     guessButton.position(width/2 + 100, height/2);
     guessButton.style("font-size", "20px")
-    guessButton.style("background-color", "red")
+    button1.style("background-color", "red")
 }
 
 function checkAnswer() {
