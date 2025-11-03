@@ -13,8 +13,8 @@ function draw() {
     createCanvas(1510, 685);
     background("pink");
     textAlign(CENTER, CENTER)
-    TEXTsIZE(30);
-
+    textSize(30);
+    
 }
     // button = createButton("Guess🤔")
     // button.position(width/2, height/2)
