@@ -6,5 +6,6 @@ function setup() {
 }
 
 function draw() {
-    
+    sometextInput = createInput("e.g. a cat");
+    sometextInput.position(width/2, height/2 - 260);
 }
