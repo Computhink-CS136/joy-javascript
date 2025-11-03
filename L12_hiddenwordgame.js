@@ -3,11 +3,11 @@ let hiddenwords = ["index", "video", "mouse", "white", "night"];
 function setup() {
     createCanvas(1510, 685);
     background("pink");
-    background.style("border", "1px teal")
+  
     textInput = createInput();
     textInput.position(width/2 - 200, height/2 + 5);
     textInput.style("font-size", "20px")
-    guessButton = createButton("Guess");
+   .style("border", "1px teal")   guessButton = createButton("Guess");
     guessButton.position(width/2 + 100, height/2);
     guessButton.style("font-size", "20px")
 }
