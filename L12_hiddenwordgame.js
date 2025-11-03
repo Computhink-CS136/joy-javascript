@@ -16,7 +16,7 @@ function setup() {
 }
 
 function checkAnswer() {
-    message = "Guessed right! The hi"
+    message = "Guessed right! The hidden word is !"
 }
 
 function draw() {
