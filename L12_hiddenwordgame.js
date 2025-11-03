@@ -14,8 +14,8 @@ function draw() {
     background("pink");
     textAlign(CENTER, CENTER)
     textSize(30);
-    text("Guess the hidden 5-letter word!🤔", width/2, )
-    text("Attempts:0", width/2, 200)
+    text("Guess the hidden 5-letter word!🤔", width/2, 100);
+    text("Attempts:0", width/2, 200);
 }
     // button = createButton("Guess🤔")
     // button.position(width/2, height/2)
