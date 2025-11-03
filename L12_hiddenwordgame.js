@@ -5,7 +5,7 @@ function setup() {
     background("pink");
 }
 
-function draw() {}
+function draw() {
     createCanvas(1510, 685);
     background("pink");
 
