@@ -4,7 +4,7 @@ function setup() {
     createCanvas(1510, 685);
     background("pink");
     textInput = createInput();
-    textInput.position(width/2, height/2);
+    textInput.position(width/2 - 200, height/2);
     guessButton = createButton();
     guessButton.position(width/2, height/2);
 }
@@ -13,7 +13,7 @@ function draw() {
     createCanvas(1510, 685);
     background("pink");
 
-    button1 = createButton("Guess🤔")
+    button = createButton("Guess🤔")
     button.position(width/2, height/2)
     button.size(150, 30)
     button.mousePressed(changeText);
