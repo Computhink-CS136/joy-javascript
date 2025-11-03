@@ -1,5 +1,10 @@
 let hiddenwords = ["index", "video", "mouse", "white", "night"];
 
+let textInput
+let guessButton
+
+let
+
 function setup() {
     createCanvas(1510, 685);
     background("pink");
