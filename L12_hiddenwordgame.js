@@ -10,7 +10,7 @@ function setup() {
     guessButton = createButton("Guess");
     guessButton.position(width/2 + 100, height/2);
     guessButton.style("font-size", "20px")
-    guessB
+    guessButton.style("")
 }
 
 function draw() {
