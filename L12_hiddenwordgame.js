@@ -36,7 +36,7 @@ function generateHints() {
 }
 
 function checkAnswer() {
-    message = "Guessed right! The hidden word is 'index' !"
+    message = "Guessed right! The hidden word is 'index' !";
 }
 
 function draw() {
