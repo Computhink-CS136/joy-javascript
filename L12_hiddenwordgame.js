@@ -14,7 +14,7 @@ function setup() {
     textInput = createInput();
     textInput.position(width/2 - 200, height/2 + 5);
     textInput.style("font-size", "20px")
-    textInput.style("background-color", "magenta")
+    textInput.style("background-color", "ligth")
 
     guessButton = createButton("Guess");
     guessButton.position(width/2 + 100, height/2);
@@ -49,7 +49,7 @@ function draw() {
     text("Attempts : 0", width/2, 150);
     text("Hints: "+hints, width/2, 200)
     // text("Subscribe to 'joy_penguin@codewhiz'!", width/2, height/2 + 150)
-    
+
     fill("cyan");
     textSize(24);
     text(message, width/2, height/2 + 100);
