@@ -36,7 +36,7 @@ function generateHints() {
 }
 
 function checkAnswer() {
-    let userInput = textInput
+    let userInput = textInput.value().
     if (textInput.value() === selected)
     message = "Guessed right! The hidden word is 'index' !";
 }
