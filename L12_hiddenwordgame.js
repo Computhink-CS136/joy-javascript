@@ -43,7 +43,7 @@ function draw() {
     createCanvas(1510, 685);
     background("pink");
 
-    
+    fill("black");
     textAlign(CENTER, CENTER)
     textSize(30);
 
