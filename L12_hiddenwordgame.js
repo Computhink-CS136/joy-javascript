@@ -48,7 +48,7 @@ function checkAnswer() {
                 foundletters = foundletters + selected[index] + " ";
             }
         }
-        message = "Wrong! Correct letters ate"
+        message = "Wrong! Correct letters are " +
     }
 }
 
