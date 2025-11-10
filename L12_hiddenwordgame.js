@@ -43,7 +43,9 @@ function checkAnswer() {
     }
     else {
         let foundletters = " ";
-        for (let index = 0; index < selected.length)
+        for (let index = 0; index < selected.length; index++) {
+            
+        }
         message = "Sorry - Your answer is wrong:("
     }
 }
