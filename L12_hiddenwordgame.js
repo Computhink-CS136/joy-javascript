@@ -15,7 +15,7 @@ function setup() {
     textInput.position(width/2 - 200, height/2 + 5);
     textInput.style("font-size", "20px")
     textInput.style("background-color", "magenta")
-    
+
     guessButton = createButton("Guess");
     guessButton.position(width/2 + 100, height/2);
     guessButton.style("font-size", "20px")
@@ -28,6 +28,7 @@ function setup() {
     button1.style("background-color", "red")
 
     selected = random(hiddenwords);
+    selected
     generateHints();
 }
 function generateHints() {
