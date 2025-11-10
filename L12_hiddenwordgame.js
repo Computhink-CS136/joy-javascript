@@ -48,7 +48,7 @@ function checkAnswer() {
                 foundletters = foundletters + selected[index] + " ";
             }
         }
-        message = "Sorry - Your answer is wrong:("
+        message = "Wrong"
     }
 }
 
