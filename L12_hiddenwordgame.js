@@ -39,7 +39,7 @@ function checkAnswer() {
     let userInput = textInput.value().toUpperCase();
 
     if (textInput.value() === selected){
-        message = "Guessed right! The hidden word is !";
+        message = "Guessed right! The hidden word is " + selected + "!";
     }
     else {
         message = "Sorry - Your answer is wrong:("
