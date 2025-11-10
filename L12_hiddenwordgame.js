@@ -49,6 +49,7 @@ function draw() {
     text("Attempts : 0", width/2, 150);
     text("Hints: "+hints, width/2, 200)
     // text("Subscribe to 'joy_penguin@codewhiz'!", width/2, height/2 + 150)
+    
     fill("cyan");
     textSize(24);
     text(message, width/2, height/2 + 100);
