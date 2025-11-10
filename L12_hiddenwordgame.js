@@ -22,10 +22,10 @@ function setup() {
     guessButton.style("background-color", "cyan")
     guessButton.mousePressed(checkAnswer);
 
-    button1 = createButton("SUBSCRIBE!");
-    button1.position(width/2 - 70, height/2 + 200);
-    button1.style("font-size", "20px")
-    button1.style("background-color", "red")
+    // button1 = createButton("SUBSCRIBE!");
+    // button1.position(width/2 - 70, height/2 + 200);
+    // button1.style("font-size", "20px")
+    // button1.style("background-color", "red")
 
     selected = random(hiddenwords);
     selected = selected.toUpperCase();
@@ -48,7 +48,7 @@ function draw() {
     text("Guess the hidden 5-letter word!", width/2, 100);
     text("Attempts : 0", width/2, 150);
     text("Hints: "+hints, width/2, 200)
-    text("Subscribe to 'joy_penguin@codewhiz'!", width/2, height/2 + 150)
+    // text("Subscribe to 'joy_penguin@codewhiz'!", width/2, height/2 + 150)
 }
     // button = createButton("Guess🤔")
     // button.position(width/2, height/2)
