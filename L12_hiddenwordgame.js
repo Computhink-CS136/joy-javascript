@@ -52,7 +52,7 @@ function checkAnswer() {
             message = "Wrong! Try again!";
         }
         else {
-
+            message = "Wrong! Correct letters are " + foundletters;
         }
     }
 }
