@@ -42,7 +42,7 @@ function checkAnswer() {
         message = "Guessed right! The hidden word is " + selected + "!";
     }
     else {
-        let foundletters = " ";
+        let foundletters = "";
         for (let index = 0; index < selected.length; index++) {
             if (selected[index] === userInput[index]) {
                 foundletters = foundletters + selected[index] + " ";
