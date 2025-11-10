@@ -42,6 +42,7 @@ function checkAnswer() {
         message = "Guessed right! The hidden word is " + selected + "!";
     }
     else {
+        let  = " "
         message = "Sorry - Your answer is wrong:("
     }
 }
