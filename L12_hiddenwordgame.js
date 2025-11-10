@@ -51,7 +51,7 @@ function draw() {
     // text("Subscribe to 'joy_penguin@codewhiz'!", width/2, height/2 + 150)
     fill("cyan");
     textSize(24);
-    text(message, width)
+    text(message, width/2, height/2 + 100);
 }
     // button = createButton("Guess🤔")
     // button.position(width/2, height/2)
