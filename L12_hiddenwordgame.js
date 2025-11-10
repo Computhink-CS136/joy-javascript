@@ -48,7 +48,10 @@ function checkAnswer() {
                 foundletters = foundletters + selected[index] + " ";
             }
         }
-        message = "Wrong! Correct letters are " +
+        if (foundletters.length === 0) {
+            
+        }
+        message = "Wrong! Correct letters are " + foundletters;
     }
 }
 
