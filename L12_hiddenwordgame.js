@@ -41,6 +41,9 @@ function checkAnswer() {
     if (textInput.value() === selected){
         message = "Guessed right! The hidden word is 'index' !";
     }
+    else {
+        
+    }
 }
 
 function draw() {
