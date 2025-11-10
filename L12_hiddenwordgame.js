@@ -28,7 +28,7 @@ function setup() {
     button1.style("background-color", "red")
 
     selected = random(hiddenwords);
-    selected = selected.to
+    selected = selected.toUpperCase();
     generateHints();
 }
 function generateHints() {
