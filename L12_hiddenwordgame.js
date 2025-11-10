@@ -42,6 +42,8 @@ function checkAnswer() {
 function draw() {
     createCanvas(1510, 685);
     background("pink");
+
+    
     textAlign(CENTER, CENTER)
     textSize(30);
 
