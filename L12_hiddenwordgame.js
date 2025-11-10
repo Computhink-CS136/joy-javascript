@@ -42,7 +42,7 @@ function checkAnswer() {
         message = "Guessed right! The hidden word is 'index' !";
     }
     else {
-        message = ""
+        message = "Sorry - "
     }
 }
 
