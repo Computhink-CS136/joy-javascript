@@ -49,7 +49,7 @@ function checkAnswer() {
             }
         }
         if (foundletters.length === 0) {
-            message = "W"
+            message = "Wrong! Try again"
         }
         message = "Wrong! Correct letters are " + foundletters;
     }
